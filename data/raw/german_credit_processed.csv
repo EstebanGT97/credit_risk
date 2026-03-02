@@ -1,0 +1,1001 @@
+Sex,Age_group,Housing,Purpose,Risk_per_purpose,Credit amount,Duration,Financial_profile,Saving accounts,Checking account,Job_type,Duration_estimated,Checking_score,Saving_score,Duration_score,Job_score,Risk_per_purpose_score,Internal_Risk_Score,PD_internal
+male,66+,own,radio/TV,alto riesgo,1169,6,No_tiene / little,,little,cualificado,0-6,0.75,1.0,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+female,0-25,own,radio/TV,alto riesgo,5951,48,little / moderate,little,moderate,cualificado,43-48,0.5,0.75,0.6147386076544852,0.3,1.0,4.164738607654485,0.8142622579816154
+male,46-55,own,education,bajo riesgo,2096,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.0,2.4664711864619298,0.48222819887036283
+male,36-45,free,furniture/equipment,medio riesgo,7882,42,little / little,little,little,cualificado,37-42,0.75,0.75,0.5237211981383231,0.3,0.5,3.823721198138323,0.7475887804737306
+male,46-55,free,car,bajo riesgo,4870,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+male,26-35,free,education,bajo riesgo,9055,36,No_tiene / No_tiene,,,no cualificado,31-36,1.0,1.0,0.43527528164806206,0.6,0.0,4.035275281648062,0.7889504413009596
+male,46-55,own,furniture/equipment,medio riesgo,2835,24,quite rich / No_tiene,quite rich,,cualificado,19-24,1.0,0.25,0.26758052058674353,0.3,0.5,3.3175805205867435,0.6486314893241667
+male,26-35,rent,car,bajo riesgo,6948,36,little / moderate,little,moderate,muy cualificado,31-36,0.5,0.75,0.43527528164806206,0.0,0.0,2.685275281648062,0.5250073342222027
+male,56-65,own,radio/TV,alto riesgo,3059,12,rich / No_tiene,rich,,no cualificado,7-12,1.0,0.0,0.11647118646192987,0.6,1.0,3.71647118646193,0.7266199646840268
+male,26-35,own,car,bajo riesgo,5234,30,little / moderate,little,moderate,muy cualificado,25-30,0.5,0.75,0.34974096978557817,0.0,0.0,2.5997409697855782,0.5082842290112195
+female,0-25,rent,car,bajo riesgo,1295,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.0,1.66647118646193,0.32581746874961803
+female,0-25,rent,business,medio riesgo,4308,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.5,3.914738607654485,0.7653839048188826
+female,0-25,own,radio/TV,alto riesgo,1567,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+male,56-65,own,car,bajo riesgo,1199,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,0.0,2.3675805205867437,0.46289374730578225
+female,26-35,rent,car,bajo riesgo,1403,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.0,1.952233599127284,0.381687853257185
+female,26-35,own,radio/TV,alto riesgo,1282,24,moderate / little,moderate,little,no cualificado,19-24,0.75,0.5,0.26758052058674353,0.6,1.0,3.1175805205867437,0.6095288067939806
+male,46-55,own,radio/TV,alto riesgo,2424,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,1.0,4.567580520586743,0.8930232551378305
+male,0-25,own,business,medio riesgo,8072,30,No_tiene / little,,little,cualificado,25-30,0.75,1.0,0.34974096978557817,0.3,0.5,3.899740969785578,0.7624516654574299
+female,36-45,free,car,bajo riesgo,12579,24,little / moderate,little,moderate,muy cualificado,19-24,0.5,0.75,0.26758052058674353,0.0,0.0,2.5175805205867436,0.4922207592034219
+male,26-35,own,radio/TV,alto riesgo,3430,24,quite rich / No_tiene,quite rich,,cualificado,19-24,1.0,0.25,0.26758052058674353,0.3,1.0,3.8175805205867435,0.7463881956496323
+male,46-55,own,car,bajo riesgo,2134,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,0.0,2.132469244423306,0.41692633935035306
+male,36-45,rent,radio/TV,alto riesgo,2647,6,quite rich / little,quite rich,little,cualificado,0-6,0.75,0.25,0.050697028491100485,0.3,1.0,3.3506970284911004,0.655106210799629
+male,46-55,rent,car,bajo riesgo,2241,10,little / little,little,little,no cualificado,7-12,0.75,0.75,0.09358387076573756,0.6,0.0,2.1935838707657376,0.42887506850944834
+male,36-45,own,car,bajo riesgo,1804,12,moderate / moderate,moderate,moderate,cualificado,7-12,0.5,0.5,0.11647118646192987,0.3,0.0,1.41647118646193,0.2769391155868853
+male,26-35,own,furniture/equipment,medio riesgo,2069,10,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.09358387076573756,0.3,0.5,2.8935838707657373,0.5657344573651001
+male,36-45,own,furniture/equipment,medio riesgo,1374,6,little / little,little,little,no cualificado,0-6,0.75,0.75,0.050697028491100485,0.6,0.5,2.6506970284911007,0.5182468219439774
+male,36-45,own,radio/TV,alto riesgo,426,6,little / No_tiene,little,,no cualificado,0-6,1.0,0.75,0.050697028491100485,0.6,1.0,3.4006970284911007,0.6648818814321757
+female,36-45,rent,radio/TV,alto riesgo,409,12,rich / rich,rich,rich,cualificado,7-12,0.0,0.0,0.11647118646192987,0.3,1.0,1.41647118646193,0.2769391155868853
+male,26-35,own,radio/TV,alto riesgo,2415,7,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.060998429322433954,0.3,1.0,3.610998429322434,0.705998625993981
+male,56-65,own,business,medio riesgo,6836,60,little / little,little,little,cualificado,55-60,0.75,0.75,0.8034937533355228,0.3,0.5,4.103493753335522,0.8022880675064059
+male,36-45,own,business,medio riesgo,1913,18,rich / moderate,rich,moderate,cualificado,13-18,0.5,0.0,0.18946457081379978,0.3,0.5,1.4894645708137997,0.2912103012624604
+male,26-35,own,furniture/equipment,medio riesgo,4020,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,26-35,own,car,bajo riesgo,5866,18,moderate / moderate,moderate,moderate,cualificado,13-18,0.5,0.5,0.18946457081379978,0.3,0.0,2.4894645708137997,0.4867237139133915
+male,56-65,rent,business,medio riesgo,1264,12,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.11647118646192987,0.6,0.5,3.21647118646193,0.6288632583585613
+female,26-35,own,furniture/equipment,medio riesgo,1474,12,little / rich,little,rich,muy cualificado,7-12,0.0,0.75,0.11647118646192987,0.0,0.5,1.3664711864619299,0.2671634449543387
+male,0-25,own,radio/TV,alto riesgo,4746,45,little / moderate,little,moderate,no cualificado,43-48,0.5,0.75,0.5689263134456501,0.6,1.0,4.418926313445651,0.8639593637947571
+male,26-35,free,education,bajo riesgo,6110,48,little / No_tiene,little,,cualificado,43-48,1.0,0.75,0.6147386076544852,0.3,0.0,3.664738607654485,0.7165055516561499
+male,36-45,own,radio/TV,alto riesgo,2100,18,little / rich,little,rich,cualificado,13-18,0.0,0.75,0.18946457081379978,0.3,1.0,2.2394645708137997,0.43784536075065866
+male,36-45,own,domestic appliances,medio riesgo,1225,10,little / rich,little,rich,cualificado,7-12,0.0,0.75,0.09358387076573756,0.3,0.5,1.6435838707657375,0.32134269155143624
+male,0-25,own,radio/TV,alto riesgo,458,9,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0824692444233059,0.3,1.0,2.632469244423306,0.5146830456758186
+male,26-35,own,radio/TV,alto riesgo,2333,30,quite rich / No_tiene,quite rich,,muy cualificado,25-30,1.0,0.25,0.34974096978557817,0.0,1.0,3.5997409697855782,0.7037976416621506
+male,26-35,own,radio/TV,alto riesgo,1158,12,quite rich / moderate,quite rich,moderate,cualificado,7-12,0.5,0.25,0.11647118646192987,0.3,1.0,2.16647118646193,0.42357417507508355
+male,36-45,own,repairs,medio riesgo,6204,18,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.18946457081379978,0.6,0.5,3.5394645708138,0.6920127971968691
+male,0-25,rent,car,bajo riesgo,6187,30,moderate / little,moderate,little,cualificado,25-30,0.75,0.5,0.34974096978557817,0.3,0.0,2.899740969785578,0.5669382528064988
+female,56-65,free,car,bajo riesgo,6143,48,little / little,little,little,no cualificado,43-48,0.75,0.75,0.6147386076544852,0.6,0.0,3.714738607654485,0.7262812222886965
+female,26-35,own,car,bajo riesgo,1393,11,little / No_tiene,little,,muy cualificado,7-12,1.0,0.75,0.10492336888023829,0.0,0.0,1.8549233688802382,0.36266239805573725
+male,36-45,own,radio/TV,alto riesgo,2299,36,quite rich / No_tiene,quite rich,,cualificado,31-36,1.0,0.25,0.43527528164806206,0.3,1.0,2.985275281648062,0.583661358017482
+female,0-25,rent,car,bajo riesgo,1352,6,quite rich / little,quite rich,little,desempleado,0-6,0.75,0.25,0.050697028491100485,1.0,0.0,2.0506970284911006,0.40093877435341874
+male,36-45,own,car,bajo riesgo,7228,11,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.10492336888023829,0.6,0.0,3.4549233688802383,0.675483858297227
+female,26-35,own,radio/TV,alto riesgo,2073,12,moderate / No_tiene,moderate,,cualificado,7-12,1.0,0.5,0.11647118646192987,0.3,1.0,2.91647118646193,0.5702092345632819
+male,26-35,own,furniture/equipment,medio riesgo,2333,24,No_tiene / moderate,,moderate,no cualificado,19-24,0.5,1.0,0.26758052058674353,0.6,0.5,3.8675805205867437,0.7561638662821789
+male,26-35,own,car,bajo riesgo,5965,27,little / moderate,little,moderate,muy cualificado,25-30,0.5,0.75,0.30820346803447984,0.0,0.0,2.55820346803448,0.5001630902908683
+male,0-25,own,radio/TV,alto riesgo,1262,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,26-35,own,car,bajo riesgo,3378,18,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.18946457081379978,0.3,0.0,3.4894645708137997,0.6822371265643226
+male,56-65,free,car,bajo riesgo,2225,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,0.0,1.985275281648062,0.388147945366551
+male,26-35,own,car,bajo riesgo,783,6,No_tiene / No_tiene,,,no cualificado,0-6,1.0,1.0,0.050697028491100485,0.6,0.0,2.6506970284911007,0.5182468219439774
+male,46-55,own,radio/TV,alto riesgo,6468,12,No_tiene / moderate,,moderate,muy cualificado,7-12,0.5,1.0,0.11647118646192987,0.0,1.0,3.61647118646193,0.7070686234189336
+female,26-35,own,radio/TV,alto riesgo,9566,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,1.0,4.485275281648062,0.8769314769938786
+female,0-25,own,car,bajo riesgo,1961,18,little / rich,little,rich,muy cualificado,13-18,0.0,0.75,0.18946457081379978,0.0,0.0,0.9394645708137997,0.1836779243044483
+female,0-25,rent,furniture/equipment,medio riesgo,6229,36,little / little,little,little,no cualificado,31-36,0.75,0.75,0.43527528164806206,0.6,0.5,4.035275281648062,0.7889504413009596
+male,26-35,own,business,medio riesgo,1391,9,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0824692444233059,0.3,0.5,2.132469244423306,0.41692633935035306
+male,46-55,own,radio/TV,alto riesgo,1537,15,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.1522335991272839,0.3,1.0,2.952233599127284,0.5772012659081162
+male,56-65,free,business,medio riesgo,1953,36,little / moderate,little,moderate,muy cualificado,31-36,0.5,0.75,0.43527528164806206,0.0,0.5,2.185275281648062,0.4272506278967372
+male,0-25,own,business,medio riesgo,14421,48,little / moderate,little,moderate,cualificado,43-48,0.5,0.75,0.6147386076544852,0.3,0.5,3.664738607654485,0.7165055516561499
+female,26-35,own,radio/TV,alto riesgo,3181,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,4.317580520586743,0.8441449019750977
+male,46-55,own,repairs,medio riesgo,5190,27,No_tiene / No_tiene,,,cualificado,25-30,1.0,1.0,0.30820346803447984,0.3,0.5,4.10820346803448,0.8032088798998115
+female,26-35,own,radio/TV,alto riesgo,2171,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,0-25,own,car,bajo riesgo,1007,12,rich / moderate,rich,moderate,cualificado,7-12,0.5,0.0,0.11647118646192987,0.3,0.0,0.9164711864619299,0.1791824092614197
+male,36-45,free,education,bajo riesgo,1819,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.0,2.485275281648062,0.48590465169201646
+female,0-25,own,radio/TV,alto riesgo,2394,36,No_tiene / No_tiene,,,cualificado,31-36,1.0,1.0,0.43527528164806206,0.3,1.0,4.735275281648062,0.9258098301566114
+female,26-35,own,car,bajo riesgo,8133,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.0,3.485275281648062,0.6814180643429476
+male,46-55,rent,radio/TV,alto riesgo,730,7,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.060998429322433954,0.6,1.0,3.6609984293224342,0.7157742966265276
+male,46-55,free,vacation/others,alto riesgo,1164,8,little / little,little,little,muy cualificado,7-12,0.75,0.75,0.0715993349974727,0.0,1.0,2.571599334997473,0.5027821619562208
+female,36-45,own,business,medio riesgo,5954,42,little / moderate,little,moderate,no cualificado,37-42,0.5,0.75,0.5237211981383231,0.6,0.5,3.8737211981383233,0.7573644511062771
+male,36-45,own,education,bajo riesgo,1977,36,No_tiene / little,,little,muy cualificado,31-36,0.75,1.0,0.43527528164806206,0.0,0.0,2.185275281648062,0.4272506278967372
+male,66+,free,car,bajo riesgo,1526,12,little / little,little,little,muy cualificado,7-12,0.75,0.75,0.11647118646192987,0.0,0.0,1.6164711864619299,0.31604179811707145
+male,26-35,own,radio/TV,alto riesgo,3965,42,little / little,little,little,cualificado,37-42,0.75,0.75,0.5237211981383231,0.3,1.0,4.323721198138323,0.845345486799196
+male,46-55,own,radio/TV,alto riesgo,4771,11,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.10492336888023829,0.3,1.0,3.654923368880238,0.7145865408274131
+male,36-45,own,car,bajo riesgo,9436,54,No_tiene / No_tiene,,,no cualificado,49-54,1.0,1.0,0.7080656334711765,0.6,0.0,4.308065633471176,0.8422846139241449
+male,0-25,own,furniture/equipment,medio riesgo,3832,30,little / moderate,little,moderate,cualificado,25-30,0.5,0.75,0.34974096978557817,0.3,0.5,3.399740969785578,0.6646949591319643
+female,36-45,own,radio/TV,alto riesgo,5943,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,1.0,4.567580520586743,0.8930232551378305
+male,46-55,own,radio/TV,alto riesgo,1213,15,quite rich / No_tiene,quite rich,,cualificado,13-18,1.0,0.25,0.1522335991272839,0.3,1.0,2.702233599127284,0.5283229127453833
+female,0-25,rent,business,medio riesgo,1568,18,moderate / No_tiene,moderate,,no cualificado,13-18,1.0,0.5,0.18946457081379978,0.6,0.5,2.7894645708138,0.5453777377086708
+female,56-65,own,vacation/others,alto riesgo,1755,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,1.0,3.3675805205867437,0.6584071599567133
+male,46-55,own,radio/TV,alto riesgo,2315,10,little / little,little,little,no cualificado,7-12,0.75,0.75,0.09358387076573756,0.6,1.0,3.1935838707657376,0.6243884811603794
+female,26-35,own,business,medio riesgo,1412,12,little / No_tiene,little,,muy cualificado,7-12,1.0,0.75,0.11647118646192987,0.0,0.5,2.36647118646193,0.46267685760526983
+female,26-35,own,furniture/equipment,medio riesgo,1295,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.5,2.2394645708137997,0.43784536075065866
+male,46-55,free,education,bajo riesgo,12612,36,moderate / moderate,moderate,moderate,cualificado,31-36,0.5,0.5,0.43527528164806206,0.3,0.0,2.735275281648062,0.5347830048547493
+male,26-35,own,car,bajo riesgo,2249,18,moderate / little,moderate,little,muy cualificado,13-18,0.75,0.5,0.18946457081379978,0.0,0.0,1.4394645708137999,0.28143463062991386
+male,26-35,own,repairs,medio riesgo,1108,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,2.41647118646193,0.4724525282378163
+male,56-65,own,radio/TV,alto riesgo,618,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,46-55,own,car,bajo riesgo,1409,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+female,26-35,own,radio/TV,alto riesgo,797,12,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.11647118646192987,0.6,1.0,3.71647118646193,0.7266199646840268
+male,0-25,rent,furniture/equipment,medio riesgo,3617,24,No_tiene / rich,,rich,cualificado,19-24,0.0,1.0,0.26758052058674353,0.3,0.5,3.0675805205867435,0.599753136161434
+male,46-55,own,car,bajo riesgo,1318,12,rich / moderate,rich,moderate,cualificado,7-12,0.5,0.0,0.11647118646192987,0.3,0.0,0.9164711864619299,0.1791824092614197
+male,56-65,rent,business,medio riesgo,15945,54,little / moderate,little,moderate,cualificado,49-54,0.5,0.75,0.7080656334711765,0.3,0.5,3.758065633471176,0.7347522369661328
+female,56-65,own,education,bajo riesgo,2012,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,0.0,2.41647118646193,0.4724525282378163
+male,26-35,own,business,medio riesgo,2622,18,moderate / moderate,moderate,moderate,cualificado,13-18,0.5,0.5,0.18946457081379978,0.3,0.5,2.9894645708137997,0.584480420238857
+male,36-45,own,radio/TV,alto riesgo,2337,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,1.0,3.985275281648062,0.7791747706684131
+male,36-45,rent,car,bajo riesgo,7057,20,No_tiene / moderate,,moderate,muy cualificado,19-24,0.5,1.0,0.2149992768057157,0.0,0.0,2.714999276805716,0.5308187739530954
+male,36-45,rent,car,bajo riesgo,1469,24,moderate / No_tiene,moderate,,no cualificado,19-24,1.0,0.5,0.26758052058674353,0.6,0.0,2.3675805205867437,0.46289374730578225
+male,0-25,rent,radio/TV,alto riesgo,2323,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,1.0,3.985275281648062,0.7791747706684131
+female,0-25,own,radio/TV,alto riesgo,932,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+male,26-35,rent,furniture/equipment,medio riesgo,1919,9,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0824692444233059,0.3,0.5,2.132469244423306,0.41692633935035306
+male,26-35,rent,car,bajo riesgo,2445,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,0.0,3.41647118646193,0.6679659408887474
+male,36-45,own,vacation/others,alto riesgo,11938,24,little / moderate,little,moderate,muy cualificado,19-24,0.5,0.75,0.26758052058674353,0.0,1.0,3.5175805205867436,0.6877341718543529
+male,36-45,own,car,bajo riesgo,6458,18,little / No_tiene,little,,muy cualificado,13-18,1.0,0.75,0.18946457081379978,0.0,0.0,2.9394645708138,0.5747047496063105
+male,26-35,own,car,bajo riesgo,6078,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.0,2.66647118646193,0.5213308814005491
+female,26-35,own,furniture/equipment,medio riesgo,7721,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.5,3.8175805205867435,0.7463881956496323
+male,26-35,own,business,medio riesgo,1410,14,quite rich / moderate,quite rich,moderate,cualificado,13-18,0.5,0.25,0.14013759084016558,0.3,0.5,1.6901375908401657,0.33044456823478385
+male,26-35,own,business,medio riesgo,1449,6,moderate / moderate,moderate,moderate,cualificado,0-6,0.5,0.5,0.050697028491100485,0.3,0.5,1.8506970284911006,0.3618360918232325
+female,0-25,rent,education,bajo riesgo,392,15,little / rich,little,rich,cualificado,13-18,0.0,0.75,0.1522335991272839,0.3,0.0,1.202233599127284,0.23505279376898672
+male,26-35,rent,car,bajo riesgo,6260,18,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.18946457081379978,0.6,0.0,3.0394645708138,0.5942560908714036
+female,0-25,own,car,bajo riesgo,7855,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.0,3.485275281648062,0.6814180643429476
+male,26-35,own,radio/TV,alto riesgo,1680,12,quite rich / little,quite rich,little,cualificado,7-12,0.75,0.25,0.11647118646192987,0.3,1.0,2.41647118646193,0.4724525282378163
+male,46-55,own,radio/TV,alto riesgo,3578,48,No_tiene / No_tiene,,,cualificado,43-48,1.0,1.0,0.6147386076544852,0.3,1.0,4.914738607654485,0.9608973174698138
+female,26-35,own,radio/TV,alto riesgo,7174,42,No_tiene / little,,little,muy cualificado,37-42,0.75,1.0,0.5237211981383231,0.0,1.0,4.273721198138324,0.8355698161666496
+female,26-35,rent,furniture/equipment,medio riesgo,2132,10,No_tiene / little,,little,cualificado,7-12,0.75,1.0,0.09358387076573756,0.3,0.5,2.6435838707657373,0.5168561042023673
+female,0-25,own,furniture/equipment,medio riesgo,4281,33,quite rich / little,quite rich,little,cualificado,31-36,0.75,0.25,0.39211886070841423,0.3,0.5,3.192118860708414,0.6241020520445042
+male,36-45,own,car,bajo riesgo,2366,12,quite rich / moderate,quite rich,moderate,muy cualificado,7-12,0.5,0.25,0.11647118646192987,0.0,0.0,1.8664711864619299,0.3649201512798042
+female,0-25,own,radio/TV,alto riesgo,1835,21,little / little,little,little,cualificado,19-24,0.75,0.75,0.22796289202471912,0.3,1.0,3.027962892024719,0.5920073584001355
+female,36-45,rent,car,bajo riesgo,3868,24,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.26758052058674353,0.0,0.0,3.0175805205867436,0.5899774655288874
+male,0-25,rent,furniture/equipment,medio riesgo,1768,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.5,2.9664711864619298,0.5799849051958283
+male,56-65,free,car,bajo riesgo,781,10,little / rich,little,rich,cualificado,7-12,0.0,0.75,0.09358387076573756,0.3,0.0,1.1435838707657375,0.22358598522597067
+female,26-35,rent,furniture/equipment,medio riesgo,1924,18,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.18946457081379978,0.3,0.5,2.4894645708137997,0.4867237139133915
+male,26-35,own,car,bajo riesgo,2121,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,36-45,own,radio/TV,alto riesgo,701,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,1.0,3.2164711864619298,0.6288632583585612
+male,26-35,own,repairs,medio riesgo,639,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.5,2.16647118646193,0.42357417507508355
+male,26-35,own,car,bajo riesgo,1860,12,little / moderate,little,moderate,muy cualificado,7-12,0.5,0.75,0.11647118646192987,0.0,0.0,1.3664711864619299,0.2671634449543387
+female,26-35,own,car,bajo riesgo,3499,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,2.91647118646193,0.5702092345632819
+female,0-25,own,car,bajo riesgo,8487,48,No_tiene / moderate,,moderate,cualificado,43-48,0.5,1.0,0.6147386076544852,0.3,0.0,3.414738607654485,0.6676271984934171
+male,26-35,own,education,bajo riesgo,6887,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.0,3.235275281648062,0.6325397111802148
+male,26-35,own,furniture/equipment,medio riesgo,2708,15,little / No_tiene,little,,no cualificado,13-18,1.0,0.75,0.1522335991272839,0.6,0.5,4.002233599127283,0.7824903491915937
+male,46-55,free,furniture/equipment,medio riesgo,1984,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,2.7394645708137997,0.5356020670761242
+female,0-25,own,radio/TV,alto riesgo,10144,60,moderate / No_tiene,moderate,,cualificado,55-60,1.0,0.5,0.8034937533355228,0.3,1.0,4.603493753335522,0.9000447738318715
+female,36-45,own,radio/TV,alto riesgo,1240,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,1.0,3.41647118646193,0.6679659408887474
+male,26-35,own,car,bajo riesgo,8613,27,rich / No_tiene,rich,,cualificado,25-30,1.0,0.0,0.30820346803447984,0.3,0.0,2.6082034680344797,0.5099387609234147
+male,66+,own,radio/TV,alto riesgo,766,12,quite rich / moderate,quite rich,moderate,no cualificado,7-12,0.5,0.25,0.11647118646192987,0.6,1.0,2.4664711864619298,0.48222819887036283
+male,26-35,own,radio/TV,alto riesgo,2728,15,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.1522335991272839,0.3,1.0,3.9522335991272834,0.7727146785590471
+female,36-45,rent,radio/TV,alto riesgo,1881,12,little / rich,little,rich,no cualificado,7-12,0.0,0.75,0.11647118646192987,0.6,1.0,2.4664711864619298,0.48222819887036283
+male,26-35,own,car,bajo riesgo,709,6,rich / rich,rich,rich,desempleado,0-6,0.0,0.0,0.050697028491100485,1.0,0.0,1.0506970284911006,0.20542536170248765
+female,26-35,own,radio/TV,alto riesgo,4795,36,little / moderate,little,moderate,muy cualificado,31-36,0.5,0.75,0.43527528164806206,0.0,1.0,3.685275281648062,0.7205207468731338
+male,26-35,own,radio/TV,alto riesgo,3416,27,little / little,little,little,muy cualificado,25-30,0.75,0.75,0.30820346803447984,0.0,1.0,3.80820346803448,0.7445548561045321
+male,0-25,own,furniture/equipment,medio riesgo,2462,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,3.4894645708137997,0.6822371265643226
+female,0-25,own,furniture/equipment,medio riesgo,2288,21,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.22796289202471912,0.3,0.5,2.777962892024719,0.5431290052374028
+male,26-35,own,business,medio riesgo,3566,48,moderate / moderate,moderate,moderate,cualificado,43-48,0.5,0.5,0.6147386076544852,0.3,0.5,3.414738607654485,0.6676271984934171
+female,36-45,own,car,bajo riesgo,860,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,0.0,1.8506970284911006,0.3618360918232325
+female,46-55,own,car,bajo riesgo,682,12,moderate / No_tiene,moderate,,cualificado,7-12,1.0,0.5,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,26-35,own,furniture/equipment,medio riesgo,5371,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+male,46-55,own,radio/TV,alto riesgo,1582,18,rich / No_tiene,rich,,cualificado,13-18,1.0,0.0,0.18946457081379978,0.3,1.0,2.4894645708137997,0.4867237139133915
+male,36-45,free,radio/TV,alto riesgo,1346,6,moderate / No_tiene,moderate,,cualificado,0-6,1.0,0.5,0.050697028491100485,0.3,1.0,2.8506970284911004,0.5573495044741635
+male,36-45,own,radio/TV,alto riesgo,1924,10,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.09358387076573756,0.3,1.0,3.1435838707657373,0.6146128105278328
+male,0-25,own,radio/TV,alto riesgo,5848,36,little / rich,little,rich,cualificado,31-36,0.0,0.75,0.43527528164806206,0.3,1.0,3.485275281648062,0.6814180643429476
+female,26-35,rent,car,bajo riesgo,7758,24,rich / moderate,rich,moderate,cualificado,19-24,0.5,0.0,0.26758052058674353,0.3,0.0,2.0675805205867435,0.40423972351050286
+male,36-45,rent,business,medio riesgo,6967,24,moderate / moderate,moderate,moderate,muy cualificado,19-24,0.5,0.5,0.26758052058674353,0.0,0.5,2.7675805205867436,0.5410991123661547
+female,0-25,rent,furniture/equipment,medio riesgo,1282,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,2.41647118646193,0.4724525282378163
+male,46-55,own,repairs,medio riesgo,1288,9,moderate / little,moderate,little,cualificado,7-12,0.75,0.5,0.0824692444233059,0.3,0.5,2.132469244423306,0.41692633935035306
+male,36-45,own,education,bajo riesgo,339,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+male,36-45,own,car,bajo riesgo,3512,24,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+male,26-35,own,radio/TV,alto riesgo,1898,6,No_tiene / No_tiene,,,no cualificado,0-6,1.0,1.0,0.050697028491100485,0.6,1.0,3.6506970284911007,0.7137602345949084
+male,36-45,own,radio/TV,alto riesgo,2872,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,1.0,4.067580520586743,0.7952665488123649
+female,26-35,own,car,bajo riesgo,1055,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.0,2.2394645708137997,0.43784536075065866
+male,36-45,own,domestic appliances,medio riesgo,1262,15,quite rich / No_tiene,quite rich,,cualificado,13-18,1.0,0.25,0.1522335991272839,0.3,0.5,2.202233599127284,0.4305662064199178
+male,66+,free,car,bajo riesgo,7308,10,little / moderate,little,moderate,muy cualificado,7-12,0.5,0.75,0.09358387076573756,0.0,0.0,2.3435838707657375,0.458202080407088
+male,36-45,own,car,bajo riesgo,909,36,quite rich / No_tiene,quite rich,,cualificado,31-36,1.0,0.25,0.43527528164806206,0.3,0.0,1.985275281648062,0.388147945366551
+male,26-35,own,furniture/equipment,medio riesgo,2978,6,quite rich / No_tiene,quite rich,,cualificado,0-6,1.0,0.25,0.050697028491100485,0.3,0.5,3.1006970284911004,0.6062278576368964
+female,26-35,own,furniture/equipment,medio riesgo,1131,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,2.4894645708137997,0.4867237139133915
+female,0-25,own,furniture/equipment,medio riesgo,1577,11,rich / moderate,rich,moderate,cualificado,7-12,0.5,0.0,0.10492336888023829,0.3,0.5,1.4049233688802383,0.2746813623628183
+female,0-25,rent,furniture/equipment,medio riesgo,3972,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,3.8175805205867435,0.7463881956496323
+male,26-35,own,business,medio riesgo,1935,24,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.26758052058674353,0.3,0.5,2.317580520586744,0.4531180766732357
+male,26-35,rent,car,bajo riesgo,950,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.0,1.952233599127284,0.381687853257185
+female,26-35,own,furniture/equipment,medio riesgo,763,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,2.66647118646193,0.5213308814005491
+female,26-35,own,furniture/equipment,medio riesgo,2064,24,little / moderate,little,moderate,muy cualificado,19-24,0.5,0.75,0.26758052058674353,0.0,0.5,2.0175805205867436,0.3944640528779564
+male,26-35,own,radio/TV,alto riesgo,1414,8,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0715993349974727,0.3,1.0,2.621599334997473,0.5125578325887674
+male,26-35,own,education,bajo riesgo,3414,21,little / little,little,little,cualificado,19-24,0.75,0.75,0.22796289202471912,0.3,0.0,3.027962892024719,0.5920073584001355
+female,46-55,own,car,bajo riesgo,7485,30,No_tiene / No_tiene,,,muy cualificado,25-30,1.0,1.0,0.34974096978557817,0.0,0.0,3.3497409697855782,0.6549192884994178
+male,36-45,own,furniture/equipment,medio riesgo,2577,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,3.41647118646193,0.6679659408887474
+male,46-55,own,radio/TV,alto riesgo,338,6,quite rich / little,quite rich,little,cualificado,0-6,0.75,0.25,0.050697028491100485,0.3,1.0,2.3506970284911004,0.459592798148698
+male,26-35,rent,radio/TV,alto riesgo,1963,12,little / No_tiene,little,,muy cualificado,7-12,1.0,0.75,0.11647118646192987,0.0,1.0,2.86647118646193,0.5604335639307354
+male,56-65,own,car,bajo riesgo,571,21,little / little,little,little,cualificado,19-24,0.75,0.75,0.22796289202471912,0.3,0.0,2.027962892024719,0.3964939457492045
+male,26-35,own,business,medio riesgo,9572,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.5,3.985275281648062,0.7791747706684131
+male,26-35,own,business,medio riesgo,4455,36,little / moderate,little,moderate,muy cualificado,31-36,0.5,0.75,0.43527528164806206,0.0,0.5,3.185275281648062,0.6227640405476683
+male,36-45,own,car,bajo riesgo,1647,21,No_tiene / little,,little,no cualificado,19-24,0.75,1.0,0.22796289202471912,0.6,0.0,2.5779628920247193,0.5040263227072166
+male,46-55,own,furniture/equipment,medio riesgo,3777,24,rich / No_tiene,rich,,cualificado,19-24,1.0,0.0,0.26758052058674353,0.3,0.5,3.0675805205867435,0.599753136161434
+male,36-45,own,car,bajo riesgo,884,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.0,1.7394645708138,0.3400886544251932
+male,26-35,own,radio/TV,alto riesgo,1360,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,1.0,3.202233599127284,0.6260796190708489
+female,66+,free,car,bajo riesgo,5129,9,little / moderate,little,moderate,muy cualificado,7-12,0.5,0.75,0.0824692444233059,0.0,0.0,2.332469244423306,0.4560290218805393
+male,66+,free,car,bajo riesgo,1175,16,little / moderate,little,moderate,desempleado,13-18,0.5,0.75,0.16449207666095705,1.0,0.0,2.4144920766609568,0.47206558572661717
+male,0-25,own,radio/TV,alto riesgo,674,12,moderate / little,moderate,little,cualificado,7-12,0.75,0.5,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+female,26-35,own,furniture/equipment,medio riesgo,3244,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.5,3.2394645708137997,0.6333587734015897
+male,46-55,own,business,medio riesgo,4591,24,rich / No_tiene,rich,,muy cualificado,19-24,1.0,0.0,0.26758052058674353,0.0,0.5,2.7675805205867436,0.5410991123661547
+male,26-35,free,business,medio riesgo,3844,48,moderate / moderate,moderate,moderate,no cualificado,43-48,0.5,0.5,0.6147386076544852,0.6,0.5,3.714738607654485,0.7262812222886965
+male,36-45,own,business,medio riesgo,3915,27,little / moderate,little,moderate,cualificado,25-30,0.5,0.75,0.30820346803447984,0.3,0.5,3.3582034680344797,0.656573820411613
+male,26-35,rent,radio/TV,alto riesgo,2108,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+male,0-25,rent,radio/TV,alto riesgo,3031,45,moderate / moderate,moderate,moderate,cualificado,43-48,0.5,0.5,0.5689263134456501,0.3,1.0,3.86892631344565,0.7564269868367449
+female,26-35,own,education,bajo riesgo,1501,9,little / moderate,little,moderate,muy cualificado,7-12,0.5,0.75,0.0824692444233059,0.0,0.0,1.332469244423306,0.26051560922960815
+female,26-35,own,radio/TV,alto riesgo,1382,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+female,26-35,rent,furniture/equipment,medio riesgo,951,12,moderate / moderate,moderate,moderate,cualificado,7-12,0.5,0.5,0.11647118646192987,0.3,0.5,1.91647118646193,0.3746958219123508
+male,36-45,free,car,bajo riesgo,2760,24,No_tiene / moderate,,moderate,cualificado,19-24,0.5,1.0,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+male,36-45,own,furniture/equipment,medio riesgo,4297,18,little / moderate,little,moderate,muy cualificado,13-18,0.5,0.75,0.18946457081379978,0.0,0.5,2.9394645708138,0.5747047496063105
+male,46-55,own,education,bajo riesgo,936,9,quite rich / No_tiene,quite rich,,cualificado,7-12,1.0,0.25,0.0824692444233059,0.3,0.0,1.632469244423306,0.3191696330248875
+male,26-35,own,car,bajo riesgo,1168,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+male,26-35,own,business,medio riesgo,5117,27,little / No_tiene,little,,cualificado,25-30,1.0,0.75,0.30820346803447984,0.3,0.5,3.8582034680344797,0.7543305267370786
+male,0-25,rent,education,bajo riesgo,902,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,36-45,own,car,bajo riesgo,1495,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.0,2.4664711864619298,0.48222819887036283
+male,36-45,free,car,bajo riesgo,10623,30,little / little,little,little,muy cualificado,25-30,0.75,0.75,0.34974096978557817,0.0,0.0,2.8497409697855782,0.5571625821739523
+male,36-45,own,furniture/equipment,medio riesgo,1935,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,2.66647118646193,0.5213308814005491
+male,26-35,own,domestic appliances,medio riesgo,1424,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.5,2.16647118646193,0.42357417507508355
+male,0-25,own,business,medio riesgo,6568,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,0.5,3.8675805205867437,0.7561638662821789
+male,46-55,own,car,bajo riesgo,1413,12,rich / No_tiene,rich,,cualificado,7-12,1.0,0.0,0.11647118646192987,0.3,0.0,1.41647118646193,0.2769391155868853
+male,26-35,own,radio/TV,alto riesgo,3074,9,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.0824692444233059,0.3,1.0,4.382469244423306,0.8568315178149479
+female,36-45,own,radio/TV,alto riesgo,3835,36,No_tiene / No_tiene,,,no cualificado,31-36,1.0,1.0,0.43527528164806206,0.6,1.0,5.035275281648062,0.9844638539518907
+male,46-55,own,business,medio riesgo,5293,27,little / little,little,little,cualificado,25-30,0.75,0.75,0.30820346803447984,0.3,0.5,3.6082034680344797,0.7054521735743459
+male,66+,own,business,medio riesgo,1908,30,little / rich,little,rich,muy cualificado,25-30,0.0,0.75,0.34974096978557817,0.0,0.5,1.5997409697855782,0.3127708163602884
+male,46-55,own,radio/TV,alto riesgo,3342,36,No_tiene / No_tiene,,,cualificado,31-36,1.0,1.0,0.43527528164806206,0.3,1.0,4.735275281648062,0.9258098301566114
+female,36-45,own,education,bajo riesgo,932,6,No_tiene / moderate,,moderate,no cualificado,0-6,0.5,1.0,0.050697028491100485,0.6,0.0,2.1506970284911007,0.42049011561851185
+male,26-35,own,business,medio riesgo,3104,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,3.4894645708137997,0.6822371265643226
+male,0-25,own,radio/TV,alto riesgo,3913,36,little / rich,little,rich,cualificado,31-36,0.0,0.75,0.43527528164806206,0.3,1.0,3.485275281648062,0.6814180643429476
+male,0-25,rent,furniture/equipment,medio riesgo,3021,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,0.5,3.8675805205867437,0.7561638662821789
+female,56-65,own,car,bajo riesgo,1364,10,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.09358387076573756,0.3,0.0,2.1435838707657373,0.4190993978769017
+male,26-35,own,radio/TV,alto riesgo,625,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,1.0,2.9664711864619298,0.5799849051958283
+female,0-25,rent,education,bajo riesgo,1200,12,No_tiene / little,,little,cualificado,7-12,0.75,1.0,0.11647118646192987,0.3,0.0,2.16647118646193,0.42357417507508355
+male,26-35,own,radio/TV,alto riesgo,707,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,26-35,own,business,medio riesgo,2978,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.5,4.067580520586743,0.7952665488123649
+male,26-35,own,car,bajo riesgo,4657,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,0.0,3.2022335991272834,0.6260796190708487
+male,26-35,own,repairs,medio riesgo,2613,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.5,3.985275281648062,0.7791747706684131
+male,26-35,own,radio/TV,alto riesgo,10961,48,rich / moderate,rich,moderate,cualificado,43-48,0.5,0.0,0.6147386076544852,0.3,1.0,3.414738607654485,0.6676271984934171
+male,46-55,free,furniture/equipment,medio riesgo,7865,12,little / little,little,little,muy cualificado,7-12,0.75,0.75,0.11647118646192987,0.0,0.5,3.11647118646193,0.6093119170934681
+male,0-25,own,radio/TV,alto riesgo,1478,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,1.0,3.132469244423306,0.6124397520012841
+male,0-25,free,furniture/equipment,medio riesgo,3149,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,26-35,own,radio/TV,alto riesgo,4210,36,little / rich,little,rich,cualificado,31-36,0.0,0.75,0.43527528164806206,0.3,1.0,3.485275281648062,0.6814180643429476
+male,46-55,free,car,bajo riesgo,2507,9,quite rich / No_tiene,quite rich,,no cualificado,7-12,1.0,0.25,0.0824692444233059,0.6,0.0,2.9324692444233063,0.573337069471098
+male,26-35,own,radio/TV,alto riesgo,2141,12,moderate / No_tiene,moderate,,cualificado,7-12,1.0,0.5,0.11647118646192987,0.3,1.0,2.91647118646193,0.5702092345632819
+male,0-25,own,radio/TV,alto riesgo,866,18,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.18946457081379978,0.6,1.0,3.0394645708138,0.5942560908714036
+male,36-45,own,radio/TV,alto riesgo,1544,4,little / No_tiene,little,,no cualificado,0-6,1.0,0.75,0.031165420706838875,0.6,1.0,3.381165420706839,0.6610631901397152
+male,26-35,own,radio/TV,alto riesgo,1823,24,little / little,little,little,muy cualificado,19-24,0.75,0.75,0.26758052058674353,0.0,1.0,2.7675805205867436,0.5410991123661547
+male,0-25,own,car,bajo riesgo,14555,6,No_tiene / moderate,,moderate,desempleado,0-6,0.5,1.0,0.050697028491100485,1.0,0.0,3.5506970284911006,0.6942088933298154
+male,56-65,rent,business,medio riesgo,2767,21,moderate / moderate,moderate,moderate,no cualificado,19-24,0.5,0.5,0.22796289202471912,0.6,0.5,3.3279628920247193,0.6506613821954149
+female,26-35,own,radio/TV,alto riesgo,1291,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,36-45,own,radio/TV,alto riesgo,2522,30,little / little,little,little,cualificado,25-30,0.75,0.75,0.34974096978557817,0.3,1.0,4.149740969785578,0.8113300186201625
+female,26-35,own,car,bajo riesgo,915,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,46-55,own,radio/TV,alto riesgo,1595,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+male,0-25,free,car,bajo riesgo,4605,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.0,3.414738607654485,0.6676271984934171
+female,26-35,own,business,medio riesgo,1185,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,2.66647118646193,0.5213308814005491
+female,26-35,own,education,bajo riesgo,3447,12,quite rich / No_tiene,quite rich,,no cualificado,7-12,1.0,0.25,0.11647118646192987,0.6,0.0,2.96647118646193,0.5799849051958285
+male,0-25,own,business,medio riesgo,1258,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,2.8175805205867435,0.5508747829987012
+male,46-55,own,radio/TV,alto riesgo,717,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,26-35,rent,car,bajo riesgo,1204,6,moderate / No_tiene,moderate,,cualificado,0-6,1.0,0.5,0.050697028491100485,0.3,0.0,1.8506970284911006,0.3618360918232325
+male,26-35,own,furniture/equipment,medio riesgo,1925,24,little / rich,little,rich,cualificado,19-24,0.0,0.75,0.26758052058674353,0.3,0.5,1.8175805205867437,0.35536137034777016
+female,0-25,rent,radio/TV,alto riesgo,433,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,3.2394645708137997,0.6333587734015897
+female,36-45,own,car,bajo riesgo,666,6,rich / little,rich,little,no cualificado,0-6,0.75,0.0,0.050697028491100485,0.6,0.0,1.4006970284911004,0.27385505613031347
+female,46-55,own,furniture/equipment,medio riesgo,2251,12,little / rich,little,rich,no cualificado,7-12,0.0,0.75,0.11647118646192987,0.6,0.5,1.9664711864619298,0.3844714925448973
+female,0-25,own,car,bajo riesgo,2150,30,little / moderate,little,moderate,cualificado,25-30,0.5,0.75,0.34974096978557817,0.3,0.0,1.8997409697855783,0.37142484015556776
+male,26-35,own,furniture/equipment,medio riesgo,4151,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,0-25,own,furniture/equipment,medio riesgo,2030,9,No_tiene / moderate,,moderate,cualificado,7-12,0.5,1.0,0.0824692444233059,0.3,0.5,2.382469244423306,0.4658046925130858
+male,26-35,own,radio/TV,alto riesgo,7418,60,No_tiene / moderate,,moderate,no cualificado,55-60,0.5,1.0,0.8034937533355228,0.6,1.0,4.903493753335523,0.9586987976271509
+male,26-35,own,radio/TV,alto riesgo,2684,24,little / No_tiene,little,,no cualificado,19-24,1.0,0.75,0.26758052058674353,0.6,1.0,4.617580520586744,0.9027989257703772
+male,26-35,free,radio/TV,alto riesgo,2149,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,1.0,2.91647118646193,0.5702092345632819
+female,0-25,own,car,bajo riesgo,3812,15,moderate / No_tiene,moderate,,cualificado,13-18,1.0,0.5,0.1522335991272839,0.3,0.0,2.9522335991272834,0.577201265908116
+female,56-65,own,radio/TV,alto riesgo,1154,11,moderate / No_tiene,moderate,,no cualificado,7-12,1.0,0.5,0.10492336888023829,0.6,1.0,3.2049233688802383,0.6266055051344942
+male,26-35,own,furniture/equipment,medio riesgo,1657,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,2.41647118646193,0.4724525282378163
+female,46-55,own,radio/TV,alto riesgo,1603,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,1.0,3.0675805205867435,0.599753136161434
+male,36-45,free,car,bajo riesgo,5302,18,little / little,little,little,muy cualificado,13-18,0.75,0.75,0.18946457081379978,0.0,0.0,2.6894645708138,0.5258263964435778
+female,56-65,free,education,bajo riesgo,2748,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.0,3.46647118646193,0.677741611521294
+male,26-35,own,car,bajo riesgo,1231,10,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.09358387076573756,0.6,0.0,2.4435838707657376,0.4777534216721811
+male,36-45,own,radio/TV,alto riesgo,802,15,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.1522335991272839,0.3,1.0,2.702233599127284,0.5283229127453833
+male,36-45,own,business,medio riesgo,6304,36,No_tiene / No_tiene,,,cualificado,31-36,1.0,1.0,0.43527528164806206,0.3,0.5,4.235275281648062,0.8280531238311459
+female,36-45,own,radio/TV,alto riesgo,1533,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,3.3175805205867435,0.6486314893241667
+male,36-45,own,car,bajo riesgo,8978,14,little / little,little,little,muy cualificado,13-18,0.75,0.75,0.14013759084016558,0.0,0.0,2.6401375908401654,0.5161823102531683
+male,0-25,own,radio/TV,alto riesgo,999,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,1.0,3.5675805205867435,0.6975098424868995
+male,26-35,own,car,bajo riesgo,2662,18,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.18946457081379978,0.3,0.0,3.4894645708137997,0.6822371265643226
+female,36-45,rent,furniture/equipment,medio riesgo,1402,12,quite rich / No_tiene,quite rich,,cualificado,7-12,1.0,0.25,0.11647118646192987,0.3,0.5,2.16647118646193,0.42357417507508355
+male,36-45,free,car,bajo riesgo,12169,48,No_tiene / moderate,,moderate,muy cualificado,43-48,0.5,1.0,0.6147386076544852,0.0,0.0,3.114738607654485,0.6089731746981378
+male,26-35,own,radio/TV,alto riesgo,3060,48,little / moderate,little,moderate,cualificado,43-48,0.5,0.75,0.6147386076544852,0.3,1.0,4.164738607654485,0.8142622579816154
+male,26-35,own,repairs,medio riesgo,11998,30,little / little,little,little,no cualificado,25-30,0.75,0.75,0.34974096978557817,0.6,0.5,3.9497409697855783,0.7722273360899765
+male,26-35,own,radio/TV,alto riesgo,2697,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,1.0,4.132469244423306,0.8079531646522152
+female,26-35,own,radio/TV,alto riesgo,2404,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,4.2394645708138,0.8288721860525209
+male,46-55,own,furniture/equipment,medio riesgo,1262,12,No_tiene / little,,little,no cualificado,7-12,0.75,1.0,0.11647118646192987,0.6,0.5,2.9664711864619298,0.5799849051958283
+female,26-35,own,furniture/equipment,medio riesgo,4611,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,0.5,3.6006970284911004,0.7039845639623619
+male,26-35,rent,radio/TV,alto riesgo,1901,24,moderate / No_tiene,moderate,,muy cualificado,19-24,1.0,0.5,0.26758052058674353,0.0,1.0,2.7675805205867436,0.5410991123661547
+male,0-25,rent,car,bajo riesgo,3368,15,rich / No_tiene,rich,,cualificado,13-18,1.0,0.0,0.1522335991272839,0.3,0.0,2.4522335991272834,0.4794445595826505
+male,46-55,own,furniture/equipment,medio riesgo,1574,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,2.66647118646193,0.5213308814005491
+male,46-55,own,radio/TV,alto riesgo,1445,18,No_tiene / rich,,rich,no cualificado,13-18,0.0,1.0,0.18946457081379978,0.6,1.0,2.7894645708138,0.5453777377086708
+male,56-65,own,furniture/equipment,medio riesgo,1520,15,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.1522335991272839,0.3,0.5,2.9522335991272834,0.577201265908116
+male,36-45,own,car,bajo riesgo,3878,24,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+female,26-35,own,car,bajo riesgo,10722,47,little / little,little,little,no cualificado,43-48,0.75,0.75,0.5994023396619937,0.6,0.0,3.6994023396619937,0.7232827761961553
+male,26-35,own,car,bajo riesgo,4788,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.0,3.414738607654485,0.6676271984934171
+male,26-35,free,vacation/others,alto riesgo,7582,48,moderate / moderate,moderate,moderate,muy cualificado,43-48,0.5,0.5,0.6147386076544852,0.0,1.0,3.614738607654485,0.7067298810236033
+female,46-55,own,radio/TV,alto riesgo,1092,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+male,46-55,own,radio/TV,alto riesgo,1024,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,1.0,3.0675805205867435,0.599753136161434
+male,26-35,own,business,medio riesgo,1076,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,2.66647118646193,0.5213308814005491
+male,26-35,rent,car,bajo riesgo,9398,36,little / moderate,little,moderate,muy cualificado,31-36,0.5,0.75,0.43527528164806206,0.0,0.0,2.685275281648062,0.5250073342222027
+female,36-45,free,car,bajo riesgo,6419,24,little / little,little,little,muy cualificado,19-24,0.75,0.75,0.26758052058674353,0.0,0.0,2.7675805205867436,0.5410991123661547
+male,56-65,free,car,bajo riesgo,4796,42,little / rich,little,rich,cualificado,37-42,0.0,0.75,0.5237211981383231,0.3,0.0,2.573721198138323,0.5031970146600667
+male,46-55,own,business,medio riesgo,7629,48,No_tiene / No_tiene,,,muy cualificado,43-48,1.0,1.0,0.6147386076544852,0.0,0.5,4.114738607654485,0.804486587349069
+female,26-35,own,furniture/equipment,medio riesgo,9960,48,little / moderate,little,moderate,cualificado,43-48,0.5,0.75,0.6147386076544852,0.3,0.5,3.664738607654485,0.7165055516561499
+female,0-25,rent,car,bajo riesgo,4675,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,0.0,3.41647118646193,0.6679659408887474
+male,36-45,own,car,bajo riesgo,1287,10,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.09358387076573756,0.6,0.0,2.6935838707657376,0.5266317748349139
+male,36-45,own,furniture/equipment,medio riesgo,2515,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,3.7394645708137997,0.7311154797270553
+male,26-35,own,furniture/equipment,medio riesgo,2745,21,rich / moderate,rich,moderate,cualificado,19-24,0.5,0.0,0.22796289202471912,0.3,0.5,2.527962892024719,0.49425065207467
+female,46-55,own,car,bajo riesgo,672,6,little / No_tiene,little,,desempleado,0-6,1.0,0.75,0.050697028491100485,1.0,0.0,2.8006970284911006,0.5475738338416171
+female,36-45,own,radio/TV,alto riesgo,3804,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,1.0,3.985275281648062,0.7791747706684131
+male,36-45,own,car,bajo riesgo,1344,24,No_tiene / rich,,rich,no cualificado,19-24,0.0,1.0,0.26758052058674353,0.6,0.0,1.8675805205867437,0.36513704098031674
+male,46-55,own,car,bajo riesgo,1038,10,little / little,little,little,cualificado,7-12,0.75,0.75,0.09358387076573756,0.3,0.0,1.8935838707657375,0.370221044714169
+male,36-45,free,car,bajo riesgo,10127,48,quite rich / No_tiene,quite rich,,cualificado,43-48,1.0,0.25,0.6147386076544852,0.3,0.0,3.164738607654485,0.6187488453306843
+male,26-35,own,furniture/equipment,medio riesgo,1543,6,rich / No_tiene,rich,,cualificado,0-6,1.0,0.0,0.050697028491100485,0.3,0.5,1.8506970284911006,0.3618360918232325
+female,0-25,rent,car,bajo riesgo,4811,30,No_tiene / No_tiene,,,no cualificado,25-30,1.0,1.0,0.34974096978557817,0.6,0.0,3.9497409697855783,0.7722273360899765
+male,26-35,own,radio/TV,alto riesgo,727,12,moderate / little,moderate,little,no cualificado,7-12,0.75,0.5,0.11647118646192987,0.6,1.0,2.9664711864619298,0.5799849051958283
+female,0-25,own,furniture/equipment,medio riesgo,1237,8,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0715993349974727,0.3,0.5,2.121599334997473,0.4148011262633019
+male,0-25,rent,car,bajo riesgo,276,9,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.0824692444233059,0.6,0.0,1.9324692444233058,0.3778236568201668
+male,36-45,free,vacation/others,alto riesgo,5381,48,No_tiene / moderate,,moderate,desempleado,43-48,0.5,1.0,0.6147386076544852,1.0,1.0,5.114738607654485,1.0
+male,0-25,own,furniture/equipment,medio riesgo,5511,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+female,26-35,own,furniture/equipment,medio riesgo,3749,24,little / rich,little,rich,cualificado,19-24,0.0,0.75,0.26758052058674353,0.3,0.5,2.8175805205867435,0.5508747829987012
+male,0-25,own,car,bajo riesgo,685,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,0.0,1.9664711864619298,0.3844714925448973
+male,26-35,own,car,bajo riesgo,1494,4,No_tiene / rich,,rich,no cualificado,0-6,0.0,1.0,0.031165420706838875,0.6,0.0,1.631165420706839,0.3189147180005858
+male,26-35,own,furniture/equipment,medio riesgo,2746,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+male,36-45,own,furniture/equipment,medio riesgo,708,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.5,2.7164711864619298,0.5311065520330956
+female,46-55,own,furniture/equipment,medio riesgo,4351,24,No_tiene / moderate,,moderate,no cualificado,19-24,0.5,1.0,0.26758052058674353,0.6,0.5,3.8675805205867437,0.7561638662821789
+male,26-35,own,education,bajo riesgo,701,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.0,2.16647118646193,0.42357417507508355
+female,26-35,own,furniture/equipment,medio riesgo,3643,15,little / little,little,little,no cualificado,13-18,0.75,0.75,0.1522335991272839,0.6,0.5,3.7522335991272837,0.733611996028861
+male,26-35,own,car,bajo riesgo,4249,30,little / moderate,little,moderate,muy cualificado,25-30,0.5,0.75,0.34974096978557817,0.0,0.0,2.5997409697855782,0.5082842290112195
+male,26-35,own,radio/TV,alto riesgo,1938,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,1.0,3.0675805205867435,0.599753136161434
+male,26-35,free,car,bajo riesgo,2910,24,little / little,little,little,muy cualificado,19-24,0.75,0.75,0.26758052058674353,0.0,0.0,2.7675805205867436,0.5410991123661547
+male,26-35,own,furniture/equipment,medio riesgo,2659,18,rich / little,rich,little,cualificado,13-18,0.75,0.0,0.18946457081379978,0.3,0.5,2.7394645708137997,0.5356020670761242
+female,36-45,own,car,bajo riesgo,1028,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.0,2.2394645708137997,0.43784536075065866
+male,36-45,own,car,bajo riesgo,3398,8,little / little,little,little,no cualificado,7-12,0.75,0.75,0.0715993349974727,0.6,0.0,3.1715993349974725,0.6200902095467794
+male,46-55,rent,furniture/equipment,medio riesgo,5801,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,0.5,3.91647118646193,0.7657226472142129
+female,26-35,own,car,bajo riesgo,1525,24,rich / No_tiene,rich,,cualificado,19-24,1.0,0.0,0.26758052058674353,0.3,0.0,1.5675805205867437,0.3064830171850374
+male,26-35,own,radio/TV,alto riesgo,4473,36,little / rich,little,rich,cualificado,31-36,0.0,0.75,0.43527528164806206,0.3,1.0,3.485275281648062,0.6814180643429476
+male,26-35,own,radio/TV,alto riesgo,1068,6,little / moderate,little,moderate,cualificado,0-6,0.5,0.75,0.050697028491100485,0.3,1.0,2.6006970284911004,0.5084711513114307
+male,66+,free,car,bajo riesgo,6615,24,little / little,little,little,muy cualificado,19-24,0.75,0.75,0.26758052058674353,0.0,0.0,2.7675805205867436,0.5410991123661547
+female,26-35,own,education,bajo riesgo,1864,18,moderate / No_tiene,moderate,,cualificado,13-18,1.0,0.5,0.18946457081379978,0.3,0.0,1.9894645708138,0.38896700758792596
+female,0-25,own,car,bajo riesgo,7408,60,moderate / moderate,moderate,moderate,muy cualificado,55-60,0.5,0.5,0.8034937533355228,0.0,0.0,2.803493753335523,0.5481206310601957
+female,0-25,rent,car,bajo riesgo,11590,48,moderate / No_tiene,moderate,,no cualificado,43-48,1.0,0.5,0.6147386076544852,0.6,0.0,3.714738607654485,0.7262812222886965
+male,0-25,rent,furniture/equipment,medio riesgo,4110,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,36-45,rent,furniture/equipment,medio riesgo,3384,6,little / little,little,little,muy cualificado,0-6,0.75,0.75,0.050697028491100485,0.0,0.5,3.0506970284911006,0.5964521870043498
+female,0-25,own,radio/TV,alto riesgo,2101,13,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.12821328485306516,0.6,1.0,2.9782132848530654,0.5822806429239623
+female,0-25,rent,domestic appliances,medio riesgo,1275,15,No_tiene / little,,little,cualificado,13-18,0.75,1.0,0.1522335991272839,0.3,0.5,2.702233599127284,0.5283229127453833
+male,26-35,own,furniture/equipment,medio riesgo,4169,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,26-35,own,furniture/equipment,medio riesgo,1521,10,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.09358387076573756,0.6,0.5,2.4435838707657376,0.4777534216721811
+female,0-25,free,education,bajo riesgo,5743,24,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.26758052058674353,0.3,0.0,2.8175805205867435,0.5508747829987012
+female,26-35,rent,furniture/equipment,medio riesgo,3599,21,little / little,little,little,no cualificado,19-24,0.75,0.75,0.22796289202471912,0.6,0.5,3.8279628920247193,0.7484180885208804
+male,0-25,rent,radio/TV,alto riesgo,3213,18,quite rich / moderate,quite rich,moderate,cualificado,13-18,0.5,0.25,0.18946457081379978,0.3,1.0,3.2394645708137997,0.6333587734015897
+male,26-35,own,business,medio riesgo,4439,18,little / moderate,little,moderate,muy cualificado,13-18,0.5,0.75,0.18946457081379978,0.0,0.5,2.9394645708138,0.5747047496063105
+male,36-45,own,car,bajo riesgo,3949,10,little / rich,little,rich,no cualificado,7-12,0.0,0.75,0.09358387076573756,0.6,0.0,2.4435838707657376,0.4777534216721811
+female,36-45,own,radio/TV,alto riesgo,1459,15,little / No_tiene,little,,no cualificado,13-18,1.0,0.75,0.1522335991272839,0.6,1.0,3.5022335991272837,0.6847336428661281
+male,0-25,own,radio/TV,alto riesgo,882,13,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.12821328485306516,0.3,1.0,2.678213284853065,0.5236266191286829
+female,0-25,rent,radio/TV,alto riesgo,3758,24,quite rich / moderate,quite rich,moderate,desempleado,19-24,0.5,0.25,0.26758052058674353,1.0,1.0,4.017580520586744,0.7854908781798186
+male,26-35,own,business,medio riesgo,1743,6,moderate / No_tiene,moderate,,no cualificado,0-6,1.0,0.5,0.050697028491100485,0.6,0.5,2.6506970284911007,0.5182468219439774
+male,26-35,free,education,bajo riesgo,1136,9,rich / moderate,rich,moderate,cualificado,7-12,0.5,0.0,0.0824692444233059,0.3,0.0,0.882469244423306,0.1725345735366892
+female,0-25,rent,domestic appliances,medio riesgo,1236,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,0.5,2.632469244423306,0.5146830456758186
+female,26-35,own,furniture/equipment,medio riesgo,959,9,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0824692444233059,0.3,0.5,2.132469244423306,0.41692633935035306
+male,36-45,own,car,bajo riesgo,3229,18,No_tiene / No_tiene,,,muy cualificado,13-18,1.0,1.0,0.18946457081379978,0.0,0.0,3.1894645708138,0.6235831027690433
+male,26-35,rent,radio/TV,alto riesgo,6199,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,1.0,3.91647118646193,0.7657226472142129
+male,46-55,free,education,bajo riesgo,727,10,quite rich / No_tiene,quite rich,,cualificado,7-12,1.0,0.25,0.09358387076573756,0.3,0.0,1.6435838707657375,0.32134269155143624
+male,0-25,own,car,bajo riesgo,1246,24,little / moderate,little,moderate,no cualificado,19-24,0.5,0.75,0.26758052058674353,0.6,0.0,2.1175805205867437,0.4140153941430495
+male,46-55,own,radio/TV,alto riesgo,2331,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,1.0,4.41647118646193,0.8634793535396785
+male,26-35,own,radio/TV,alto riesgo,4463,36,little / No_tiene,little,,muy cualificado,31-36,1.0,0.75,0.43527528164806206,0.0,1.0,4.185275281648062,0.8182774531985993
+male,26-35,own,radio/TV,alto riesgo,776,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+female,0-25,rent,furniture/equipment,medio riesgo,2406,30,little / little,little,little,cualificado,25-30,0.75,0.75,0.34974096978557817,0.3,0.5,3.649740969785578,0.7135733122946971
+male,56-65,free,education,bajo riesgo,1239,18,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.18946457081379978,0.3,0.0,1.9894645708138,0.38896700758792596
+male,36-45,own,radio/TV,alto riesgo,3399,12,No_tiene / rich,,rich,muy cualificado,7-12,0.0,1.0,0.11647118646192987,0.0,1.0,3.11647118646193,0.6093119170934681
+female,36-45,own,car,bajo riesgo,2247,12,little / rich,little,rich,cualificado,7-12,0.0,0.75,0.11647118646192987,0.3,0.0,1.16647118646193,0.2280607624241525
+male,0-25,rent,furniture/equipment,medio riesgo,1766,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,0.5,2.6006970284911004,0.5084711513114307
+male,0-25,own,furniture/equipment,medio riesgo,2473,18,little / little,little,little,desempleado,13-18,0.75,0.75,0.18946457081379978,1.0,0.5,4.1894645708138,0.8190965154199743
+male,36-45,own,business,medio riesgo,1542,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,2.66647118646193,0.5213308814005491
+male,26-35,own,car,bajo riesgo,3850,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.0,3.2394645708137997,0.6333587734015897
+female,0-25,rent,furniture/equipment,medio riesgo,3650,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,3.4894645708137997,0.6822371265643226
+male,36-45,own,furniture/equipment,medio riesgo,3446,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+female,36-45,rent,furniture/equipment,medio riesgo,3001,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.5,3.2394645708137997,0.6333587734015897
+male,36-45,own,car,bajo riesgo,3079,36,No_tiene / No_tiene,,,cualificado,31-36,1.0,1.0,0.43527528164806206,0.3,0.0,3.735275281648062,0.7302964175056803
+male,26-35,own,radio/TV,alto riesgo,6070,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,4.2394645708138,0.8288721860525209
+female,0-25,rent,furniture/equipment,medio riesgo,2146,10,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.09358387076573756,0.3,0.5,2.6435838707657373,0.5168561042023673
+male,56-65,free,car,bajo riesgo,13756,60,No_tiene / No_tiene,,,muy cualificado,55-60,1.0,1.0,0.8034937533355228,0.0,0.0,3.803493753335523,0.7436340437111267
+female,56-65,free,vacation/others,alto riesgo,14782,60,moderate / moderate,moderate,moderate,muy cualificado,55-60,0.5,0.5,0.8034937533355228,0.0,1.0,3.803493753335523,0.7436340437111267
+female,36-45,rent,business,medio riesgo,7685,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.5,3.914738607654485,0.7653839048188826
+male,26-35,own,radio/TV,alto riesgo,2320,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,4.2394645708138,0.8288721860525209
+male,36-45,free,radio/TV,alto riesgo,846,7,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.060998429322433954,0.3,1.0,3.360998429322434,0.6571202728312483
+male,56-65,free,car,bajo riesgo,14318,36,little / moderate,little,moderate,muy cualificado,31-36,0.5,0.75,0.43527528164806206,0.0,0.0,2.685275281648062,0.5250073342222027
+female,46-55,own,car,bajo riesgo,362,6,moderate / No_tiene,moderate,,no cualificado,0-6,1.0,0.5,0.050697028491100485,0.6,0.0,2.1506970284911007,0.42049011561851185
+male,36-45,own,furniture/equipment,medio riesgo,2212,20,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.2149992768057157,0.3,0.5,2.7649992768057157,0.5405944445856419
+female,36-45,free,car,bajo riesgo,12976,18,little / moderate,little,moderate,muy cualificado,13-18,0.5,0.75,0.18946457081379978,0.0,0.0,2.4394645708138,0.47694804328084495
+female,0-25,rent,car,bajo riesgo,1283,22,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.24105060246695362,0.3,0.0,2.5410506024669535,0.4968094750070185
+male,26-35,own,car,bajo riesgo,1330,12,little / rich,little,rich,cualificado,7-12,0.0,0.75,0.11647118646192987,0.3,0.0,1.16647118646193,0.2280607624241525
+male,26-35,own,business,medio riesgo,4272,30,moderate / No_tiene,moderate,,no cualificado,25-30,1.0,0.5,0.34974096978557817,0.6,0.5,3.9497409697855783,0.7722273360899765
+female,0-25,own,radio/TV,alto riesgo,2238,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,3.2394645708137997,0.6333587734015897
+female,0-25,rent,radio/TV,alto riesgo,1126,18,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.18946457081379978,0.3,1.0,3.4894645708137997,0.6822371265643226
+male,36-45,own,furniture/equipment,medio riesgo,7374,18,little / moderate,little,moderate,muy cualificado,13-18,0.5,0.75,0.18946457081379978,0.0,0.5,2.9394645708138,0.5747047496063105
+male,26-35,own,business,medio riesgo,2326,15,quite rich / moderate,quite rich,moderate,cualificado,13-18,0.5,0.25,0.1522335991272839,0.3,0.5,2.702233599127284,0.5283229127453833
+female,26-35,own,business,medio riesgo,1449,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,0.5,2.632469244423306,0.5146830456758186
+male,26-35,own,car,bajo riesgo,1820,18,little / No_tiene,little,,muy cualificado,13-18,1.0,0.75,0.18946457081379978,0.0,0.0,1.9394645708137999,0.3791913369553794
+female,0-25,rent,furniture/equipment,medio riesgo,983,12,rich / moderate,rich,moderate,no cualificado,7-12,0.5,0.0,0.11647118646192987,0.6,0.5,1.7164711864619298,0.33559313938216456
+male,36-45,free,car,bajo riesgo,3249,36,little / little,little,little,muy cualificado,31-36,0.75,0.75,0.43527528164806206,0.0,0.0,2.935275281648062,0.5738856873849355
+female,26-35,own,radio/TV,alto riesgo,1957,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,1.0,2.8506970284911004,0.5573495044741635
+male,26-35,own,furniture/equipment,medio riesgo,2406,9,little / No_tiene,little,,muy cualificado,7-12,1.0,0.75,0.0824692444233059,0.0,0.5,3.332469244423306,0.6515424345314703
+male,26-35,rent,education,bajo riesgo,11760,39,moderate / moderate,moderate,moderate,cualificado,37-42,0.5,0.5,0.4791577674336024,0.3,0.0,2.779157767433602,0.5433626194062862
+female,46-55,free,furniture/equipment,medio riesgo,2578,12,little / little,little,little,muy cualificado,7-12,0.75,0.75,0.11647118646192987,0.0,0.5,3.11647118646193,0.6093119170934681
+male,46-55,own,furniture/equipment,medio riesgo,2348,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+male,46-55,rent,car,bajo riesgo,1223,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.0,1.66647118646193,0.32581746874961803
+female,36-45,own,radio/TV,alto riesgo,1516,24,rich / No_tiene,rich,,no cualificado,19-24,1.0,0.0,0.26758052058674353,0.6,1.0,2.8675805205867437,0.5606504536312478
+male,36-45,own,radio/TV,alto riesgo,1473,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,3.2394645708137997,0.6333587734015897
+male,26-35,own,business,medio riesgo,1887,18,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.18946457081379978,0.3,0.5,2.4894645708137997,0.4867237139133915
+male,26-35,own,business,medio riesgo,8648,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,3.8175805205867435,0.7463881956496323
+male,26-35,own,car,bajo riesgo,802,14,little / No_tiene,little,,no cualificado,13-18,1.0,0.75,0.14013759084016558,0.6,0.0,2.4901375908401655,0.48685529835552865
+male,36-45,own,car,bajo riesgo,2899,18,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.18946457081379978,0.3,0.0,2.9894645708137997,0.584480420238857
+male,0-25,own,radio/TV,alto riesgo,2039,24,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.26758052058674353,0.3,1.0,2.817580520586744,0.5508747829987013
+male,36-45,own,car,bajo riesgo,2197,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+male,26-35,own,radio/TV,alto riesgo,1053,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,1.0,2.952233599127284,0.5772012659081162
+male,26-35,own,radio/TV,alto riesgo,3235,24,quite rich / No_tiene,quite rich,,muy cualificado,19-24,1.0,0.25,0.26758052058674353,0.0,1.0,3.5175805205867436,0.6877341718543529
+male,26-35,own,car,bajo riesgo,939,12,quite rich / rich,quite rich,rich,cualificado,7-12,0.0,0.25,0.11647118646192987,0.3,0.0,0.6664711864619299,0.13030405609868695
+female,0-25,own,radio/TV,alto riesgo,1967,24,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.26758052058674353,0.3,1.0,2.817580520586744,0.5508747829987013
+male,26-35,own,car,bajo riesgo,7253,33,little / No_tiene,little,,muy cualificado,31-36,1.0,0.75,0.39211886070841423,0.0,0.0,3.1421188607084143,0.6143263814119576
+male,36-45,own,business,medio riesgo,2292,12,little / No_tiene,little,,muy cualificado,7-12,1.0,0.75,0.11647118646192987,0.0,0.5,2.36647118646193,0.46267685760526983
+male,36-45,rent,car,bajo riesgo,1597,10,quite rich / No_tiene,quite rich,,no cualificado,7-12,1.0,0.25,0.09358387076573756,0.6,0.0,1.9435838707657376,0.37999671534671553
+female,26-35,own,car,bajo riesgo,1381,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,26-35,own,car,bajo riesgo,5842,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.0,3.485275281648062,0.6814180643429476
+male,26-35,own,car,bajo riesgo,2579,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,3.21647118646193,0.6288632583585613
+female,0-25,rent,education,bajo riesgo,8471,18,No_tiene / little,,little,cualificado,13-18,0.75,1.0,0.18946457081379978,0.3,0.0,3.2394645708137997,0.6333587734015897
+female,26-35,own,car,bajo riesgo,2782,21,quite rich / No_tiene,quite rich,,muy cualificado,19-24,1.0,0.25,0.22796289202471912,0.0,0.0,2.477962892024719,0.4844749814421235
+female,26-35,own,car,bajo riesgo,1042,18,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.18946457081379978,0.3,0.0,1.9894645708138,0.38896700758792596
+female,0-25,rent,car,bajo riesgo,3186,15,rich / No_tiene,rich,,cualificado,13-18,1.0,0.0,0.1522335991272839,0.3,0.0,2.4522335991272834,0.4794445595826505
+male,26-35,own,car,bajo riesgo,2028,12,No_tiene / moderate,,moderate,cualificado,7-12,0.5,1.0,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,46-55,own,car,bajo riesgo,958,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,0.0,1.9664711864619298,0.3844714925448973
+male,26-35,own,furniture/equipment,medio riesgo,1591,21,moderate / No_tiene,moderate,,muy cualificado,19-24,1.0,0.5,0.22796289202471912,0.0,0.5,2.227962892024719,0.4355966282793907
+female,0-25,own,furniture/equipment,medio riesgo,2762,12,No_tiene / moderate,,moderate,cualificado,7-12,0.5,1.0,0.11647118646192987,0.3,0.5,3.41647118646193,0.6679659408887474
+male,0-25,rent,car,bajo riesgo,2779,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.0,2.7394645708137997,0.5356020670761242
+male,26-35,own,radio/TV,alto riesgo,2743,28,little / No_tiene,little,,cualificado,25-30,1.0,0.75,0.3219516401426915,0.3,1.0,4.371951640142692,0.8547751851091331
+male,46-55,own,radio/TV,alto riesgo,1149,18,rich / No_tiene,rich,,cualificado,13-18,1.0,0.0,0.18946457081379978,0.3,1.0,2.4894645708137997,0.4867237139133915
+male,0-25,own,furniture/equipment,medio riesgo,1313,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,0.5,2.632469244423306,0.5146830456758186
+female,46-55,free,repairs,medio riesgo,1190,18,little / little,little,little,desempleado,13-18,0.75,0.75,0.18946457081379978,1.0,0.5,3.1894645708138,0.6235831027690433
+male,66+,own,business,medio riesgo,3448,5,little / No_tiene,little,,no cualificado,0-6,1.0,0.75,0.04073474570527226,0.6,0.5,3.8907347457052723,0.7606908278523903
+male,26-35,own,vacation/others,alto riesgo,11328,24,little / moderate,little,moderate,muy cualificado,19-24,0.5,0.75,0.26758052058674353,0.0,1.0,3.5175805205867436,0.6877341718543529
+male,36-45,free,furniture/equipment,medio riesgo,1872,6,little / little,little,little,muy cualificado,0-6,0.75,0.75,0.050697028491100485,0.0,0.5,2.0506970284911006,0.40093877435341874
+male,26-35,own,repairs,medio riesgo,2058,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,2.8175805205867435,0.5508747829987012
+male,0-25,own,furniture/equipment,medio riesgo,2136,9,little / little,little,little,cualificado,7-12,0.75,0.75,0.0824692444233059,0.3,0.5,2.382469244423306,0.4658046925130858
+male,0-25,own,radio/TV,alto riesgo,1484,12,No_tiene / moderate,,moderate,cualificado,7-12,0.5,1.0,0.11647118646192987,0.3,1.0,2.91647118646193,0.5702092345632819
+male,0-25,rent,repairs,medio riesgo,660,6,quite rich / No_tiene,quite rich,,no cualificado,0-6,1.0,0.25,0.050697028491100485,0.6,0.5,2.4006970284911007,0.4693684687812446
+female,36-45,own,car,bajo riesgo,1287,24,rich / No_tiene,rich,,cualificado,19-24,1.0,0.0,0.26758052058674353,0.3,0.0,1.5675805205867437,0.3064830171850374
+male,56-65,own,repairs,medio riesgo,3394,42,little / little,little,little,desempleado,37-42,0.75,0.75,0.5237211981383231,1.0,0.5,4.523721198138324,0.8844481693293824
+female,26-35,own,business,medio riesgo,609,12,little / rich,little,rich,desempleado,7-12,0.0,0.75,0.11647118646192987,1.0,0.5,2.36647118646193,0.46267685760526983
+male,36-45,own,car,bajo riesgo,1884,12,little / No_tiene,little,,muy cualificado,7-12,1.0,0.75,0.11647118646192987,0.0,0.0,1.8664711864619299,0.3649201512798042
+female,26-35,own,furniture/equipment,medio riesgo,1620,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,2.41647118646193,0.4724525282378163
+male,26-35,own,vacation/others,alto riesgo,2629,20,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.2149992768057157,0.3,1.0,3.7649992768057157,0.736107857236573
+male,36-45,own,education,bajo riesgo,719,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.0,2.4664711864619298,0.48222819887036283
+female,26-35,own,furniture/equipment,medio riesgo,5096,48,little / moderate,little,moderate,muy cualificado,43-48,0.5,0.75,0.6147386076544852,0.0,0.5,3.364738607654485,0.6578515278608706
+female,36-45,rent,education,bajo riesgo,1244,9,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.0824692444233059,0.6,0.0,2.6824692444233063,0.5244587163083652
+female,26-35,own,car,bajo riesgo,1842,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.0,2.235275281648062,0.4370262985292837
+male,26-35,own,radio/TV,alto riesgo,2576,7,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.060998429322433954,0.3,1.0,3.610998429322434,0.705998625993981
+female,46-55,own,furniture/equipment,medio riesgo,1424,12,No_tiene / rich,,rich,muy cualificado,7-12,0.0,1.0,0.11647118646192987,0.0,0.5,1.6164711864619299,0.31604179811707145
+male,56-65,own,repairs,medio riesgo,1512,15,rich / moderate,rich,moderate,cualificado,13-18,0.5,0.0,0.1522335991272839,0.3,0.5,1.452233599127284,0.2839311469317195
+male,26-35,own,car,bajo riesgo,11054,36,No_tiene / No_tiene,,,muy cualificado,31-36,1.0,1.0,0.43527528164806206,0.0,0.0,3.435275281648062,0.671642393710401
+female,26-35,own,radio/TV,alto riesgo,518,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+male,26-35,own,furniture/equipment,medio riesgo,2759,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,3.66647118646193,0.7168442940514802
+male,26-35,own,car,bajo riesgo,2670,24,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.26758052058674353,0.0,0.0,3.0175805205867436,0.5899774655288874
+male,26-35,own,car,bajo riesgo,4817,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+female,26-35,own,car,bajo riesgo,2679,24,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.26758052058674353,0.0,0.0,3.0175805205867436,0.5899774655288874
+male,36-45,rent,car,bajo riesgo,3905,11,little / little,little,little,cualificado,7-12,0.75,0.75,0.10492336888023829,0.3,0.0,2.904923368880238,0.5679514813392149
+male,26-35,free,car,bajo riesgo,3386,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,2.91647118646193,0.5702092345632819
+female,26-35,own,domestic appliances,medio riesgo,343,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,0.5,2.3506970284911004,0.459592798148698
+male,26-35,own,radio/TV,alto riesgo,4594,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,4.2394645708138,0.8288721860525209
+male,36-45,own,furniture/equipment,medio riesgo,3620,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+male,36-45,own,car,bajo riesgo,1721,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.0,1.952233599127284,0.381687853257185
+female,26-35,rent,furniture/equipment,medio riesgo,3017,12,little / moderate,little,moderate,muy cualificado,7-12,0.5,0.75,0.11647118646192987,0.0,0.5,2.86647118646193,0.5604335639307354
+male,36-45,own,education,bajo riesgo,754,12,No_tiene / moderate,,moderate,cualificado,7-12,0.5,1.0,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,26-35,own,business,medio riesgo,1950,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,2.7394645708137997,0.5356020670761242
+male,56-65,own,car,bajo riesgo,2924,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+female,26-35,rent,radio/TV,alto riesgo,1659,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,1.0,3.3675805205867437,0.6584071599567133
+male,26-35,own,radio/TV,alto riesgo,7238,48,No_tiene / No_tiene,,,cualificado,43-48,1.0,1.0,0.6147386076544852,0.3,1.0,4.914738607654485,0.9608973174698138
+female,26-35,own,business,medio riesgo,2764,33,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.39211886070841423,0.3,0.5,3.942118860708414,0.7707371115327025
+male,26-35,own,car,bajo riesgo,4679,24,little / No_tiene,little,,no cualificado,19-24,1.0,0.75,0.26758052058674353,0.6,0.0,3.6175805205867437,0.7072855131194461
+male,0-25,rent,radio/TV,alto riesgo,3092,24,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.26758052058674353,0.3,1.0,3.5675805205867435,0.6975098424868995
+female,0-25,own,education,bajo riesgo,448,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,0.0,1.8506970284911006,0.3618360918232325
+male,26-35,own,car,bajo riesgo,654,9,little / little,little,little,no cualificado,7-12,0.75,0.75,0.0824692444233059,0.6,0.0,2.182469244423306,0.42670200998289953
+male,36-45,own,education,bajo riesgo,1238,6,No_tiene / No_tiene,,,muy cualificado,0-6,1.0,1.0,0.050697028491100485,0.0,0.0,2.0506970284911006,0.40093877435341874
+male,26-35,own,radio/TV,alto riesgo,1245,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,1.0,2.7394645708137997,0.5356020670761242
+female,26-35,rent,furniture/equipment,medio riesgo,3114,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,3.4894645708137997,0.6822371265643226
+male,0-25,own,car,bajo riesgo,2569,39,quite rich / No_tiene,quite rich,,cualificado,37-42,1.0,0.25,0.4791577674336024,0.3,0.0,3.029157767433602,0.592240972569019
+male,0-25,own,radio/TV,alto riesgo,5152,24,little / rich,little,rich,cualificado,19-24,0.0,0.75,0.26758052058674353,0.3,1.0,3.3175805205867435,0.6486314893241667
+male,36-45,own,business,medio riesgo,1037,12,moderate / moderate,moderate,moderate,no cualificado,7-12,0.5,0.5,0.11647118646192987,0.6,0.5,2.2164711864619298,0.4333498457076301
+male,36-45,own,furniture/equipment,medio riesgo,1478,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.5,2.452233599127284,0.4794445595826506
+female,0-25,own,radio/TV,alto riesgo,3573,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,1.0,3.96647118646193,0.7754983178467596
+male,26-35,own,car,bajo riesgo,1201,24,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.26758052058674353,0.3,0.0,1.8175805205867437,0.35536137034777016
+female,56-65,rent,furniture/equipment,medio riesgo,3622,30,rich / little,rich,little,cualificado,25-30,0.75,0.0,0.34974096978557817,0.3,0.5,2.899740969785578,0.5669382528064988
+female,26-35,own,furniture/equipment,medio riesgo,960,15,rich / No_tiene,rich,,cualificado,13-18,1.0,0.0,0.1522335991272839,0.3,0.5,1.952233599127284,0.381687853257185
+male,36-45,own,car,bajo riesgo,1163,12,quite rich / No_tiene,quite rich,,cualificado,7-12,1.0,0.25,0.11647118646192987,0.3,0.0,1.66647118646193,0.32581746874961803
+male,46-55,own,car,bajo riesgo,1209,6,little / moderate,little,moderate,muy cualificado,0-6,0.5,0.75,0.050697028491100485,0.0,0.0,1.3006970284911006,0.2543037148652204
+male,46-55,own,radio/TV,alto riesgo,3077,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,4.16647118646193,0.8146010003769457
+female,56-65,free,car,bajo riesgo,3757,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.0,3.3175805205867435,0.6486314893241667
+male,26-35,rent,car,bajo riesgo,1418,10,moderate / No_tiene,moderate,,no cualificado,7-12,1.0,0.5,0.09358387076573756,0.6,0.0,2.1935838707657376,0.42887506850944834
+male,26-35,rent,car,bajo riesgo,3518,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,0.0,3.1006970284911004,0.6062278576368964
+male,26-35,own,radio/TV,alto riesgo,1934,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+female,36-45,free,business,medio riesgo,8318,27,little / moderate,little,moderate,muy cualificado,25-30,0.5,0.75,0.30820346803447984,0.0,0.5,3.05820346803448,0.5979197966163338
+female,26-35,own,radio/TV,alto riesgo,1237,6,moderate / No_tiene,moderate,,cualificado,0-6,1.0,0.5,0.050697028491100485,0.3,1.0,2.8506970284911004,0.5573495044741635
+male,36-45,own,radio/TV,alto riesgo,368,6,No_tiene / moderate,,moderate,cualificado,0-6,0.5,1.0,0.050697028491100485,0.3,1.0,2.8506970284911004,0.5573495044741635
+male,36-45,rent,car,bajo riesgo,2122,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+male,0-25,own,furniture/equipment,medio riesgo,2996,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.5,3.8175805205867435,0.7463881956496323
+male,26-35,rent,furniture/equipment,medio riesgo,9034,36,moderate / moderate,moderate,moderate,muy cualificado,31-36,0.5,0.5,0.43527528164806206,0.0,0.5,2.935275281648062,0.5738856873849355
+male,36-45,own,furniture/equipment,medio riesgo,1585,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,2.8175805205867435,0.5508747829987012
+male,26-35,own,radio/TV,alto riesgo,1301,18,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.18946457081379978,0.6,1.0,3.0394645708138,0.5942560908714036
+male,26-35,own,car,bajo riesgo,1323,6,moderate / rich,moderate,rich,cualificado,0-6,0.0,0.5,0.050697028491100485,0.3,0.0,0.8506970284911004,0.1663226791723014
+female,26-35,own,car,bajo riesgo,3123,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+male,36-45,free,car,bajo riesgo,5493,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.0,3.235275281648062,0.6325397111802148
+male,46-55,own,radio/TV,alto riesgo,1126,9,moderate / rich,moderate,rich,cualificado,7-12,0.0,0.5,0.0824692444233059,0.3,1.0,1.882469244423306,0.36804798618762025
+male,36-45,own,radio/TV,alto riesgo,1216,24,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.26758052058674353,0.3,1.0,2.567580520586744,0.5019964298359685
+female,0-25,rent,car,bajo riesgo,1207,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,2.0675805205867435,0.40423972351050286
+male,26-35,own,car,bajo riesgo,1309,10,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.09358387076573756,0.6,0.0,2.6935838707657376,0.5266317748349139
+male,36-45,own,car,bajo riesgo,2360,15,quite rich / rich,quite rich,rich,cualificado,13-18,0.0,0.25,0.1522335991272839,0.3,0.0,1.702233599127284,0.33280950009445226
+male,26-35,own,car,bajo riesgo,6850,15,moderate / moderate,moderate,moderate,muy cualificado,13-18,0.5,0.5,0.1522335991272839,0.0,0.0,2.1522335991272836,0.4207905357873712
+male,26-35,own,radio/TV,alto riesgo,1413,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,3.3175805205867435,0.6486314893241667
+male,36-45,own,car,bajo riesgo,8588,39,moderate / No_tiene,moderate,,muy cualificado,37-42,1.0,0.5,0.4791577674336024,0.0,0.0,2.9791577674336023,0.5824653019364725
+male,26-35,own,car,bajo riesgo,759,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,26-35,free,car,bajo riesgo,4686,36,little / No_tiene,little,,muy cualificado,31-36,1.0,0.75,0.43527528164806206,0.0,0.0,3.185275281648062,0.6227640405476683
+male,26-35,rent,business,medio riesgo,2687,15,little / rich,little,rich,cualificado,13-18,0.0,0.75,0.1522335991272839,0.3,0.5,2.702233599127284,0.5283229127453833
+male,0-25,rent,radio/TV,alto riesgo,585,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+male,46-55,own,car,bajo riesgo,2255,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+female,36-45,own,car,bajo riesgo,609,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,0.0,1.8506970284911006,0.3618360918232325
+male,36-45,own,car,bajo riesgo,1361,6,little / little,little,little,no cualificado,0-6,0.75,0.75,0.050697028491100485,0.6,0.0,2.1506970284911007,0.42049011561851185
+female,0-25,rent,furniture/equipment,medio riesgo,7127,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.5,3.985275281648062,0.7791747706684131
+male,36-45,own,car,bajo riesgo,1203,6,moderate / little,moderate,little,cualificado,0-6,0.75,0.5,0.050697028491100485,0.3,0.0,1.6006970284911006,0.31295773866049975
+male,36-45,free,radio/TV,alto riesgo,700,6,No_tiene / No_tiene,,,cualificado,0-6,1.0,1.0,0.050697028491100485,0.3,1.0,3.3506970284911004,0.655106210799629
+male,36-45,free,repairs,medio riesgo,5507,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,3.8175805205867435,0.7463881956496323
+female,0-25,own,radio/TV,alto riesgo,3190,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,1.0,3.9894645708137997,0.7799938328897881
+male,46-55,free,furniture/equipment,medio riesgo,7119,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.5,3.914738607654485,0.7653839048188826
+female,0-25,own,car,bajo riesgo,3488,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+female,26-35,own,radio/TV,alto riesgo,1113,18,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.18946457081379978,0.6,1.0,3.0394645708138,0.5942560908714036
+male,26-35,own,car,bajo riesgo,7966,26,little / moderate,little,moderate,cualificado,25-30,0.5,0.75,0.29455677879896436,0.3,0.0,2.8445567787989643,0.5561490033023252
+female,26-35,own,education,bajo riesgo,1532,15,moderate / No_tiene,moderate,,cualificado,13-18,1.0,0.5,0.1522335991272839,0.3,0.0,1.952233599127284,0.381687853257185
+male,36-45,own,radio/TV,alto riesgo,1503,4,little / No_tiene,little,,no cualificado,0-6,1.0,0.75,0.031165420706838875,0.6,1.0,3.381165420706839,0.6610631901397152
+male,26-35,rent,radio/TV,alto riesgo,2302,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,1.0,3.235275281648062,0.6325397111802148
+male,36-45,own,car,bajo riesgo,662,6,little / little,little,little,no cualificado,0-6,0.75,0.75,0.050697028491100485,0.6,0.0,2.1506970284911007,0.42049011561851185
+male,26-35,own,education,bajo riesgo,2273,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,0.0,1.985275281648062,0.388147945366551
+female,26-35,rent,car,bajo riesgo,2631,15,moderate / moderate,moderate,moderate,cualificado,13-18,0.5,0.5,0.1522335991272839,0.3,0.0,2.4522335991272834,0.4794445595826505
+male,36-45,rent,car,bajo riesgo,1503,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.0,2.16647118646193,0.42357417507508355
+male,26-35,own,radio/TV,alto riesgo,1311,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,1.0,3.0675805205867435,0.599753136161434
+male,0-25,own,radio/TV,alto riesgo,3105,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,1.0,4.567580520586743,0.8930232551378305
+male,26-35,rent,education,bajo riesgo,2319,21,little / rich,little,rich,cualificado,19-24,0.0,0.75,0.22796289202471912,0.3,0.0,1.277962892024719,0.24985888626100616
+female,66+,own,car,bajo riesgo,1374,6,No_tiene / little,,little,muy cualificado,0-6,0.75,1.0,0.050697028491100485,0.0,0.0,1.8006970284911006,0.3520604211906859
+female,36-45,own,furniture/equipment,medio riesgo,3612,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.5,3.2394645708137997,0.6333587734015897
+male,36-45,free,car,bajo riesgo,7763,48,little / little,little,little,muy cualificado,43-48,0.75,0.75,0.6147386076544852,0.0,0.0,3.114738607654485,0.6089731746981378
+female,36-45,own,furniture/equipment,medio riesgo,3049,18,little / rich,little,rich,no cualificado,13-18,0.0,0.75,0.18946457081379978,0.6,0.5,3.0394645708138,0.5942560908714036
+male,0-25,rent,radio/TV,alto riesgo,1534,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+male,56-65,free,car,bajo riesgo,2032,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,26-35,own,furniture/equipment,medio riesgo,6350,30,No_tiene / little,,little,cualificado,25-30,0.75,1.0,0.34974096978557817,0.3,0.5,3.899740969785578,0.7624516654574299
+male,26-35,own,furniture/equipment,medio riesgo,2864,18,little / rich,little,rich,no cualificado,13-18,0.0,0.75,0.18946457081379978,0.6,0.5,3.0394645708138,0.5942560908714036
+male,56-65,own,car,bajo riesgo,1255,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.0,2.4664711864619298,0.48222819887036283
+male,36-45,free,car,bajo riesgo,1333,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,2.0675805205867435,0.40423972351050286
+female,36-45,own,car,bajo riesgo,2022,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,26-35,own,radio/TV,alto riesgo,1552,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,3.3175805205867435,0.6486314893241667
+female,0-25,own,radio/TV,alto riesgo,626,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,1.0,3.2164711864619298,0.6288632583585612
+male,26-35,free,car,bajo riesgo,8858,48,No_tiene / No_tiene,,,cualificado,43-48,1.0,1.0,0.6147386076544852,0.3,0.0,3.914738607654485,0.7653839048188826
+female,0-25,own,repairs,medio riesgo,996,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,0.5,2.91647118646193,0.5702092345632819
+male,36-45,own,radio/TV,alto riesgo,1750,6,quite rich / No_tiene,quite rich,,no cualificado,0-6,1.0,0.25,0.050697028491100485,0.6,1.0,2.9006970284911007,0.5671251751067101
+male,26-35,own,radio/TV,alto riesgo,6999,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,1.0,4.414738607654485,0.8631406111443483
+male,26-35,own,car,bajo riesgo,1995,12,moderate / moderate,moderate,moderate,cualificado,7-12,0.5,0.5,0.11647118646192987,0.3,0.0,1.41647118646193,0.2769391155868853
+female,66+,own,education,bajo riesgo,1199,9,little / moderate,little,moderate,muy cualificado,7-12,0.5,0.75,0.0824692444233059,0.0,0.0,1.332469244423306,0.26051560922960815
+male,0-25,own,radio/TV,alto riesgo,1331,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+female,26-35,own,car,bajo riesgo,2278,18,moderate / moderate,moderate,moderate,cualificado,13-18,0.5,0.5,0.18946457081379978,0.3,0.0,1.4894645708138,0.2912103012624604
+female,26-35,own,car,bajo riesgo,5003,21,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.22796289202471912,0.3,0.0,3.527962892024719,0.6897640647256011
+male,26-35,own,furniture/equipment,medio riesgo,3552,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,26-35,own,furniture/equipment,medio riesgo,1928,18,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.18946457081379978,0.6,0.5,2.5394645708138,0.49649938454593806
+male,46-55,free,car,bajo riesgo,2964,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.0,3.3175805205867435,0.6486314893241667
+male,0-25,rent,radio/TV,alto riesgo,1546,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,1.0,3.3675805205867437,0.6584071599567133
+female,26-35,own,radio/TV,alto riesgo,683,6,little / rich,little,rich,cualificado,0-6,0.0,0.75,0.050697028491100485,0.3,1.0,2.1006970284911004,0.41071444498596527
+male,36-45,free,car,bajo riesgo,12389,36,No_tiene / moderate,,moderate,cualificado,31-36,0.5,1.0,0.43527528164806206,0.3,0.0,3.235275281648062,0.6325397111802148
+male,36-45,own,business,medio riesgo,4712,24,No_tiene / moderate,,moderate,muy cualificado,19-24,0.5,1.0,0.26758052058674353,0.0,0.5,3.2675805205867436,0.6388558186916202
+female,0-25,rent,radio/TV,alto riesgo,1553,24,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.26758052058674353,0.3,1.0,2.567580520586744,0.5019964298359685
+male,36-45,own,car,bajo riesgo,1372,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,26-35,own,radio/TV,alto riesgo,2578,24,rich / No_tiene,rich,,cualificado,19-24,1.0,0.0,0.26758052058674353,0.3,1.0,3.5675805205867435,0.6975098424868995
+male,36-45,own,radio/TV,alto riesgo,3979,48,No_tiene / moderate,,moderate,cualificado,43-48,0.5,1.0,0.6147386076544852,0.3,1.0,4.414738607654485,0.8631406111443483
+female,26-35,own,radio/TV,alto riesgo,6758,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,1.0,4.414738607654485,0.8631406111443483
+female,0-25,rent,furniture/equipment,medio riesgo,3234,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,0.5,3.8675805205867437,0.7561638662821789
+male,36-45,own,radio/TV,alto riesgo,5954,30,little / No_tiene,little,,cualificado,25-30,1.0,0.75,0.34974096978557817,0.3,1.0,4.399740969785578,0.8602083717828953
+female,26-35,rent,car,bajo riesgo,5433,24,No_tiene / No_tiene,,,muy cualificado,19-24,1.0,1.0,0.26758052058674353,0.0,0.0,3.2675805205867436,0.6388558186916202
+female,0-25,own,business,medio riesgo,806,15,little / little,little,little,no cualificado,13-18,0.75,0.75,0.1522335991272839,0.6,0.5,2.7522335991272837,0.5380985833779298
+male,26-35,own,radio/TV,alto riesgo,1082,9,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.0824692444233059,0.6,1.0,2.932469244423306,0.5733370694710979
+female,0-25,own,furniture/equipment,medio riesgo,2788,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,0.5,3.7022335991272834,0.7238363253963144
+female,26-35,own,radio/TV,alto riesgo,2930,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,1.0,3.66647118646193,0.7168442940514802
+female,26-35,own,education,bajo riesgo,1927,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+male,26-35,own,car,bajo riesgo,2820,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,0.0,2.985275281648062,0.583661358017482
+male,26-35,own,education,bajo riesgo,937,24,little / No_tiene,little,,no cualificado,19-24,1.0,0.75,0.26758052058674353,0.6,0.0,2.6175805205867437,0.5117721004685151
+male,26-35,own,car,bajo riesgo,1056,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.0,1.7394645708138,0.3400886544251932
+male,46-55,own,car,bajo riesgo,3124,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,0.0,2.96647118646193,0.5799849051958285
+female,26-35,rent,furniture/equipment,medio riesgo,1388,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,0.5,2.632469244423306,0.5146830456758186
+male,26-35,rent,repairs,medio riesgo,2384,36,little / moderate,little,moderate,no cualificado,31-36,0.5,0.75,0.43527528164806206,0.6,0.5,3.785275281648062,0.7400720881382269
+female,46-55,free,car,bajo riesgo,2133,12,No_tiene / No_tiene,,,muy cualificado,7-12,1.0,1.0,0.11647118646192987,0.0,0.0,2.11647118646193,0.413798504442537
+female,0-25,rent,furniture/equipment,medio riesgo,2039,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,2.4894645708137997,0.4867237139133915
+male,36-45,rent,car,bajo riesgo,2799,9,little / little,little,little,cualificado,7-12,0.75,0.75,0.0824692444233059,0.3,0.0,2.882469244423306,0.5635613988385514
+male,0-25,own,furniture/equipment,medio riesgo,1289,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.5,2.7164711864619298,0.5311065520330956
+male,46-55,own,domestic appliances,medio riesgo,1217,18,little / little,little,little,no cualificado,13-18,0.75,0.75,0.18946457081379978,0.6,0.5,2.7894645708138,0.5453777377086708
+male,56-65,own,furniture/equipment,medio riesgo,2246,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,2.41647118646193,0.4724525282378163
+female,56-65,own,radio/TV,alto riesgo,385,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,1.0,3.2164711864619298,0.6288632583585612
+female,36-45,rent,car,bajo riesgo,1965,24,No_tiene / moderate,,moderate,cualificado,19-24,0.5,1.0,0.26758052058674353,0.3,0.0,2.0675805205867435,0.40423972351050286
+female,36-45,own,business,medio riesgo,1572,21,rich / No_tiene,rich,,no cualificado,19-24,1.0,0.0,0.22796289202471912,0.6,0.5,2.3279628920247193,0.45514796954448383
+female,0-25,rent,car,bajo riesgo,2718,24,little / moderate,little,moderate,no cualificado,19-24,0.5,0.75,0.26758052058674353,0.6,0.0,3.1175805205867437,0.6095288067939806
+male,36-45,own,vacation/others,alto riesgo,1358,24,No_tiene / little,,little,muy cualificado,19-24,0.75,1.0,0.26758052058674353,0.0,1.0,3.0175805205867436,0.5899774655288874
+female,26-35,own,car,bajo riesgo,931,6,moderate / moderate,moderate,moderate,no cualificado,0-6,0.5,0.5,0.050697028491100485,0.6,0.0,1.6506970284911007,0.3227334092930463
+female,0-25,rent,car,bajo riesgo,1442,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,2.0675805205867435,0.40423972351050286
+male,36-45,own,business,medio riesgo,4241,24,little / moderate,little,moderate,no cualificado,19-24,0.5,0.75,0.26758052058674353,0.6,0.5,3.6175805205867437,0.7072855131194461
+male,26-35,own,car,bajo riesgo,2775,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.0,3.2394645708137997,0.6333587734015897
+male,26-35,free,business,medio riesgo,3863,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,3.8175805205867435,0.7463881956496323
+female,36-45,own,radio/TV,alto riesgo,2329,7,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.060998429322433954,0.3,1.0,3.610998429322434,0.705998625993981
+female,26-35,own,furniture/equipment,medio riesgo,918,9,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0824692444233059,0.3,0.5,2.132469244423306,0.41692633935035306
+female,26-35,free,education,bajo riesgo,1837,24,little / moderate,little,moderate,no cualificado,19-24,0.5,0.75,0.26758052058674353,0.6,0.0,2.1175805205867437,0.4140153941430495
+female,26-35,own,furniture/equipment,medio riesgo,3349,36,little / No_tiene,little,,muy cualificado,31-36,1.0,0.75,0.43527528164806206,0.0,0.5,3.685275281648062,0.7205207468731338
+female,0-25,own,furniture/equipment,medio riesgo,1275,10,little / rich,little,rich,cualificado,7-12,0.0,0.75,0.09358387076573756,0.3,0.5,1.6435838707657375,0.32134269155143624
+male,0-25,own,furniture/equipment,medio riesgo,2828,24,quite rich / little,quite rich,little,cualificado,19-24,0.75,0.25,0.26758052058674353,0.3,0.5,3.0675805205867435,0.599753136161434
+male,66+,own,business,medio riesgo,4526,24,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.26758052058674353,0.0,0.5,3.5175805205867436,0.6877341718543529
+female,46-55,free,radio/TV,alto riesgo,2671,36,moderate / moderate,moderate,moderate,cualificado,31-36,0.5,0.5,0.43527528164806206,0.3,1.0,3.735275281648062,0.7302964175056803
+male,26-35,own,radio/TV,alto riesgo,2051,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,3.2394645708137997,0.6333587734015897
+male,36-45,free,car,bajo riesgo,1300,15,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.1522335991272839,0.3,0.0,2.4522335991272834,0.4794445595826505
+female,0-25,own,domestic appliances,medio riesgo,741,12,moderate / little,moderate,little,cualificado,7-12,0.75,0.5,0.11647118646192987,0.3,0.5,2.16647118646193,0.42357417507508355
+female,46-55,free,car,bajo riesgo,1240,10,moderate / rich,moderate,rich,no cualificado,7-12,0.0,0.5,0.09358387076573756,0.6,0.0,1.1935838707657376,0.23336165585851726
+female,26-35,own,radio/TV,alto riesgo,3357,21,rich / little,rich,little,cualificado,19-24,0.75,0.0,0.22796289202471912,0.3,1.0,3.277962892024719,0.6408857115628683
+female,0-25,rent,car,bajo riesgo,3632,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+female,0-25,own,furniture/equipment,medio riesgo,1808,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,2.7394645708137997,0.5356020670761242
+male,46-55,own,business,medio riesgo,12204,48,No_tiene / moderate,,moderate,muy cualificado,43-48,0.5,1.0,0.6147386076544852,0.0,0.5,3.614738607654485,0.7067298810236033
+male,26-35,free,radio/TV,alto riesgo,9157,60,No_tiene / moderate,,moderate,muy cualificado,55-60,0.5,1.0,0.8034937533355228,0.0,1.0,4.303493753335523,0.8413907500365924
+male,36-45,rent,car,bajo riesgo,3676,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,0.0,2.8506970284911004,0.5573495044741635
+female,0-25,rent,furniture/equipment,medio riesgo,3441,30,moderate / moderate,moderate,moderate,cualificado,25-30,0.5,0.5,0.34974096978557817,0.3,0.5,3.149740969785578,0.6158166059692316
+male,46-55,own,car,bajo riesgo,640,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.0,2.4664711864619298,0.48222819887036283
+male,26-35,own,business,medio riesgo,3652,21,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.22796289202471912,0.3,0.5,3.277962892024719,0.6408857115628683
+male,26-35,own,car,bajo riesgo,1530,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.0,2.2394645708137997,0.43784536075065866
+male,36-45,own,business,medio riesgo,3914,48,No_tiene / No_tiene,,,cualificado,43-48,1.0,1.0,0.6147386076544852,0.3,0.5,4.414738607654485,0.8631406111443483
+female,0-25,rent,furniture/equipment,medio riesgo,1858,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,2.41647118646193,0.4724525282378163
+male,56-65,free,radio/TV,alto riesgo,2600,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,1.0,3.9894645708137997,0.7799938328897881
+male,26-35,own,radio/TV,alto riesgo,1979,15,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.1522335991272839,0.3,1.0,3.4522335991272834,0.6749579722335816
+male,36-45,own,furniture/equipment,medio riesgo,2116,6,little / rich,little,rich,cualificado,0-6,0.0,0.75,0.050697028491100485,0.3,0.5,1.6006970284911004,0.3129577386604997
+male,26-35,own,car,bajo riesgo,1437,9,moderate / moderate,moderate,moderate,cualificado,7-12,0.5,0.5,0.0824692444233059,0.3,0.0,1.382469244423306,0.27029127986215473
+male,36-45,own,furniture/equipment,medio riesgo,4042,42,quite rich / No_tiene,quite rich,,cualificado,37-42,1.0,0.25,0.5237211981383231,0.3,0.5,3.573721198138323,0.6987104273109978
+male,56-65,own,education,bajo riesgo,3832,9,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.0824692444233059,0.6,0.0,3.6824692444233063,0.7199721289592963
+female,26-35,own,radio/TV,alto riesgo,3660,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,1.0,4.067580520586743,0.7952665488123649
+male,36-45,own,furniture/equipment,medio riesgo,1553,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,2.4894645708137997,0.4867237139133915
+male,0-25,own,radio/TV,alto riesgo,1444,15,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.1522335991272839,0.3,1.0,2.952233599127284,0.5772012659081162
+female,0-25,rent,furniture/equipment,medio riesgo,1980,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,0.5,2.632469244423306,0.5146830456758186
+female,0-25,own,car,bajo riesgo,1355,24,little / moderate,little,moderate,no cualificado,19-24,0.5,0.75,0.26758052058674353,0.6,0.0,2.1175805205867437,0.4140153941430495
+male,46-55,own,education,bajo riesgo,1393,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.0,2.16647118646193,0.42357417507508355
+female,26-35,own,radio/TV,alto riesgo,1376,24,quite rich / No_tiene,quite rich,,cualificado,19-24,1.0,0.25,0.26758052058674353,0.3,1.0,2.817580520586744,0.5508747829987013
+male,0-25,own,radio/TV,alto riesgo,15653,60,little / No_tiene,little,,cualificado,55-60,1.0,0.75,0.8034937533355228,0.3,1.0,4.853493753335522,0.9489231269946042
+female,26-35,own,radio/TV,alto riesgo,1493,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,26-35,own,radio/TV,alto riesgo,4370,42,little / little,little,little,cualificado,37-42,0.75,0.75,0.5237211981383231,0.3,1.0,4.323721198138323,0.845345486799196
+female,26-35,own,education,bajo riesgo,750,18,little / little,little,little,desempleado,13-18,0.75,0.75,0.18946457081379978,1.0,0.0,2.6894645708138,0.5258263964435778
+male,36-45,own,repairs,medio riesgo,1308,15,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.1522335991272839,0.6,0.5,2.5022335991272837,0.48922023021519706
+male,36-45,own,education,bajo riesgo,4623,15,moderate / No_tiene,moderate,,muy cualificado,13-18,1.0,0.5,0.1522335991272839,0.0,0.0,2.6522335991272836,0.5185472421128368
+male,26-35,own,radio/TV,alto riesgo,1851,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,3.3175805205867435,0.6486314893241667
+male,26-35,own,radio/TV,alto riesgo,1880,18,little / little,little,little,muy cualificado,13-18,0.75,0.75,0.18946457081379978,0.0,1.0,2.6894645708138,0.5258263964435778
+male,26-35,rent,business,medio riesgo,7980,36,No_tiene / No_tiene,,,cualificado,31-36,1.0,1.0,0.43527528164806206,0.3,0.5,4.235275281648062,0.8280531238311459
+male,26-35,own,furniture/equipment,medio riesgo,4583,30,little / little,little,little,cualificado,25-30,0.75,0.75,0.34974096978557817,0.3,0.5,3.649740969785578,0.7135733122946971
+female,26-35,own,car,bajo riesgo,1386,12,quite rich / No_tiene,quite rich,,cualificado,7-12,1.0,0.25,0.11647118646192987,0.3,0.0,1.66647118646193,0.32581746874961803
+male,36-45,free,car,bajo riesgo,947,24,little / rich,little,rich,cualificado,19-24,0.0,0.75,0.26758052058674353,0.3,0.0,1.3175805205867437,0.2576046640223046
+male,36-45,rent,education,bajo riesgo,684,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+male,46-55,free,education,bajo riesgo,7476,48,little / little,little,little,muy cualificado,43-48,0.75,0.75,0.6147386076544852,0.0,0.0,3.114738607654485,0.6089731746981378
+male,36-45,own,furniture/equipment,medio riesgo,1922,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,0.5,2.4664711864619298,0.48222819887036283
+male,36-45,own,car,bajo riesgo,2303,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,2.0675805205867435,0.40423972351050286
+male,36-45,own,car,bajo riesgo,8086,36,moderate / moderate,moderate,moderate,muy cualificado,31-36,0.5,0.5,0.43527528164806206,0.0,0.0,2.435275281648062,0.47612898105947
+male,26-35,own,car,bajo riesgo,2346,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.0,3.3175805205867435,0.6486314893241667
+male,0-25,free,car,bajo riesgo,3973,14,little / little,little,little,cualificado,13-18,0.75,0.75,0.14013759084016558,0.3,0.0,2.9401375908401652,0.5748363340484476
+male,36-45,own,car,bajo riesgo,888,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,0.0,1.9664711864619298,0.3844714925448973
+male,36-45,own,radio/TV,alto riesgo,10222,48,No_tiene / No_tiene,,,cualificado,43-48,1.0,1.0,0.6147386076544852,0.3,1.0,4.914738607654485,0.9608973174698138
+female,26-35,own,business,medio riesgo,4221,30,little / moderate,little,moderate,cualificado,25-30,0.5,0.75,0.34974096978557817,0.3,0.5,3.399740969785578,0.6646949591319643
+male,36-45,own,furniture/equipment,medio riesgo,6361,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.5,3.2394645708137997,0.6333587734015897
+male,0-25,rent,radio/TV,alto riesgo,1297,12,little / rich,little,rich,cualificado,7-12,0.0,0.75,0.11647118646192987,0.3,1.0,2.16647118646193,0.42357417507508355
+male,0-25,own,car,bajo riesgo,900,12,No_tiene / little,,little,cualificado,7-12,0.75,1.0,0.11647118646192987,0.3,0.0,2.16647118646193,0.42357417507508355
+male,46-55,own,furniture/equipment,medio riesgo,2241,21,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.22796289202471912,0.3,0.5,2.777962892024719,0.5431290052374028
+male,26-35,own,furniture/equipment,medio riesgo,1050,6,little / moderate,little,moderate,muy cualificado,0-6,0.5,0.75,0.050697028491100485,0.0,0.5,1.8006970284911006,0.3520604211906859
+female,46-55,own,education,bajo riesgo,1047,6,little / rich,little,rich,no cualificado,0-6,0.0,0.75,0.050697028491100485,0.6,0.0,1.4006970284911004,0.27385505613031347
+male,26-35,own,vacation/others,alto riesgo,6314,24,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.26758052058674353,0.0,1.0,4.017580520586744,0.7854908781798186
+male,26-35,own,furniture/equipment,medio riesgo,3496,30,rich / moderate,rich,moderate,cualificado,25-30,0.5,0.0,0.34974096978557817,0.3,0.5,2.649740969785578,0.518059899643766
+female,26-35,own,business,medio riesgo,3609,48,little / No_tiene,little,,cualificado,43-48,1.0,0.75,0.6147386076544852,0.3,0.5,4.164738607654485,0.8142622579816154
+male,36-45,rent,car,bajo riesgo,4843,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,2.91647118646193,0.5702092345632819
+male,46-55,own,radio/TV,alto riesgo,3017,30,little / rich,little,rich,cualificado,25-30,0.0,0.75,0.34974096978557817,0.3,1.0,3.399740969785578,0.6646949591319643
+male,26-35,own,business,medio riesgo,4139,24,moderate / No_tiene,moderate,,no cualificado,19-24,1.0,0.5,0.26758052058674353,0.6,0.5,3.8675805205867437,0.7561638662821789
+male,26-35,own,business,medio riesgo,5742,36,moderate / No_tiene,moderate,,cualificado,31-36,1.0,0.5,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+male,36-45,own,car,bajo riesgo,10366,60,little / No_tiene,little,,muy cualificado,55-60,1.0,0.75,0.8034937533355228,0.0,0.0,3.553493753335523,0.694755690548394
+male,0-25,own,car,bajo riesgo,2080,6,quite rich / No_tiene,quite rich,,cualificado,0-6,1.0,0.25,0.050697028491100485,0.3,0.0,1.6006970284911006,0.31295773866049975
+male,36-45,own,business,medio riesgo,2580,21,quite rich / No_tiene,quite rich,,no cualificado,19-24,1.0,0.25,0.22796289202471912,0.6,0.5,3.5779628920247193,0.6995397353581477
+female,26-35,rent,radio/TV,alto riesgo,4530,30,little / No_tiene,little,,muy cualificado,25-30,1.0,0.75,0.34974096978557817,0.0,1.0,4.099740969785579,0.8015543479876163
+male,26-35,own,furniture/equipment,medio riesgo,5150,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,3.8175805205867435,0.7463881956496323
+male,0-25,own,radio/TV,alto riesgo,5595,72,moderate / moderate,moderate,moderate,cualificado,67-72,0.5,0.5,1.0,0.3,1.0,4.3,0.8407076743990036
+male,56-65,rent,radio/TV,alto riesgo,2384,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,1.0,4.367580520586744,0.8539205726076444
+female,26-35,own,radio/TV,alto riesgo,1453,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,3.2394645708137997,0.6333587734015897
+female,56-65,own,education,bajo riesgo,1538,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,0.0,2.1006970284911004,0.41071444498596527
+male,36-45,free,radio/TV,alto riesgo,2279,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,1.0,3.41647118646193,0.6679659408887474
+male,26-35,own,radio/TV,alto riesgo,1478,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,1.0,3.202233599127284,0.6260796190708489
+male,46-55,free,radio/TV,alto riesgo,5103,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,4.317580520586743,0.8441449019750977
+male,26-35,own,business,medio riesgo,9857,36,moderate / moderate,moderate,moderate,no cualificado,31-36,0.5,0.5,0.43527528164806206,0.6,0.5,3.535275281648062,0.6911937349754942
+male,26-35,free,car,bajo riesgo,6527,60,No_tiene / No_tiene,,,cualificado,55-60,1.0,1.0,0.8034937533355228,0.3,0.0,4.103493753335523,0.8022880675064061
+male,26-35,own,radio/TV,alto riesgo,1347,10,No_tiene / rich,,rich,cualificado,7-12,0.0,1.0,0.09358387076573756,0.3,1.0,2.3935838707657373,0.4679777510396345
+male,26-35,free,car,bajo riesgo,2862,36,moderate / moderate,moderate,moderate,cualificado,31-36,0.5,0.5,0.43527528164806206,0.3,0.0,2.735275281648062,0.5347830048547493
+male,26-35,own,radio/TV,alto riesgo,2753,9,moderate / No_tiene,moderate,,cualificado,7-12,1.0,0.5,0.0824692444233059,0.3,1.0,3.882469244423306,0.7590748114894824
+male,26-35,own,car,bajo riesgo,3651,12,rich / little,rich,little,cualificado,7-12,0.75,0.0,0.11647118646192987,0.3,0.0,2.16647118646193,0.42357417507508355
+male,0-25,own,furniture/equipment,medio riesgo,975,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.5,2.452233599127284,0.4794445595826506
+female,0-25,own,repairs,medio riesgo,2631,15,moderate / moderate,moderate,moderate,no cualificado,13-18,0.5,0.5,0.1522335991272839,0.6,0.5,3.2522335991272837,0.6358552897033954
+male,26-35,own,radio/TV,alto riesgo,2896,24,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.26758052058674353,0.3,1.0,3.5675805205867435,0.6975098424868995
+male,36-45,own,car,bajo riesgo,4716,6,No_tiene / little,,little,no cualificado,0-6,0.75,1.0,0.050697028491100485,0.6,0.0,3.4006970284911007,0.6648818814321757
+male,26-35,own,radio/TV,alto riesgo,2284,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,3.3175805205867435,0.6486314893241667
+male,46-55,rent,car,bajo riesgo,1236,6,quite rich / No_tiene,quite rich,,cualificado,0-6,1.0,0.25,0.050697028491100485,0.3,0.0,1.6006970284911006,0.31295773866049975
+male,26-35,own,radio/TV,alto riesgo,1103,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+female,36-45,own,car,bajo riesgo,926,12,little / No_tiene,little,,desempleado,7-12,1.0,0.75,0.11647118646192987,1.0,0.0,2.86647118646193,0.5604335639307354
+male,0-25,own,radio/TV,alto riesgo,1800,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,1.0,3.2394645708137997,0.6333587734015897
+male,36-45,rent,education,bajo riesgo,1905,15,little / rich,little,rich,muy cualificado,13-18,0.0,0.75,0.1522335991272839,0.0,0.0,0.9022335991272838,0.17639876997370738
+female,26-35,rent,furniture/equipment,medio riesgo,1123,12,quite rich / No_tiene,quite rich,,no cualificado,7-12,1.0,0.25,0.11647118646192987,0.6,0.5,2.4664711864619298,0.48222819887036283
+male,46-55,free,car,bajo riesgo,6331,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.0,3.414738607654485,0.6676271984934171
+female,46-55,free,radio/TV,alto riesgo,1377,24,moderate / rich,moderate,rich,cualificado,19-24,0.0,0.5,0.26758052058674353,0.3,1.0,2.0675805205867435,0.40423972351050286
+male,36-45,own,business,medio riesgo,2503,30,moderate / moderate,moderate,moderate,cualificado,25-30,0.5,0.5,0.34974096978557817,0.3,0.5,3.149740969785578,0.6158166059692316
+female,26-35,own,business,medio riesgo,2528,27,little / moderate,little,moderate,cualificado,25-30,0.5,0.75,0.30820346803447984,0.3,0.5,3.3582034680344797,0.656573820411613
+female,26-35,free,car,bajo riesgo,5324,15,quite rich / No_tiene,quite rich,,cualificado,13-18,1.0,0.25,0.1522335991272839,0.3,0.0,2.7022335991272834,0.5283229127453832
+male,0-25,own,car,bajo riesgo,6560,48,moderate / moderate,moderate,moderate,cualificado,43-48,0.5,0.5,0.6147386076544852,0.3,0.0,2.914738607654485,0.5698704921679516
+female,0-25,rent,furniture/equipment,medio riesgo,2969,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.5,3.16647118646193,0.6190875877260147
+female,0-25,own,radio/TV,alto riesgo,1206,9,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0824692444233059,0.3,1.0,2.632469244423306,0.5146830456758186
+male,36-45,own,radio/TV,alto riesgo,2118,9,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.0824692444233059,0.6,1.0,2.932469244423306,0.5733370694710979
+male,26-35,own,radio/TV,alto riesgo,629,18,quite rich / No_tiene,quite rich,,muy cualificado,13-18,1.0,0.25,0.18946457081379978,0.0,1.0,2.4394645708138,0.47694804328084495
+female,26-35,free,education,bajo riesgo,1198,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,0.0,1.8506970284911006,0.3618360918232325
+male,46-55,own,car,bajo riesgo,2476,21,No_tiene / No_tiene,,,muy cualificado,19-24,1.0,1.0,0.22796289202471912,0.0,0.0,3.227962892024719,0.6311100409303219
+male,0-25,own,radio/TV,alto riesgo,1138,9,little / little,little,little,no cualificado,7-12,0.75,0.75,0.0824692444233059,0.6,1.0,3.182469244423306,0.6222154226338307
+male,26-35,own,car,bajo riesgo,14027,60,little / moderate,little,moderate,muy cualificado,55-60,0.5,0.75,0.8034937533355228,0.0,0.0,3.053493753335523,0.5969989842229284
+male,56-65,own,car,bajo riesgo,7596,30,No_tiene / No_tiene,,,cualificado,25-30,1.0,1.0,0.34974096978557817,0.3,0.0,3.649740969785578,0.7135733122946971
+male,36-45,own,radio/TV,alto riesgo,3077,30,No_tiene / No_tiene,,,cualificado,25-30,1.0,1.0,0.34974096978557817,0.3,1.0,4.649740969785578,0.9090867249456281
+male,26-35,free,radio/TV,alto riesgo,1505,18,little / No_tiene,little,,muy cualificado,13-18,1.0,0.75,0.18946457081379978,0.0,1.0,2.9394645708138,0.5747047496063105
+male,26-35,own,radio/TV,alto riesgo,3148,24,No_tiene / rich,,rich,cualificado,19-24,0.0,1.0,0.26758052058674353,0.3,1.0,3.5675805205867435,0.6975098424868995
+male,26-35,own,car,bajo riesgo,6148,20,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.2149992768057157,0.3,0.0,2.5149992768057157,0.4917160914229091
+male,26-35,own,radio/TV,alto riesgo,1337,9,little / rich,little,rich,muy cualificado,7-12,0.0,0.75,0.0824692444233059,0.0,1.0,1.832469244423306,0.3582723155550737
+female,0-25,rent,education,bajo riesgo,433,6,rich / moderate,rich,moderate,cualificado,0-6,0.5,0.0,0.050697028491100485,0.3,0.0,0.8506970284911004,0.1663226791723014
+female,0-25,own,car,bajo riesgo,1228,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+female,66+,own,radio/TV,alto riesgo,790,9,quite rich / moderate,quite rich,moderate,no cualificado,7-12,0.5,0.25,0.0824692444233059,0.6,1.0,2.432469244423306,0.47558036314563235
+female,0-25,rent,car,bajo riesgo,2570,27,little / No_tiene,little,,cualificado,25-30,1.0,0.75,0.30820346803447984,0.3,0.0,3.3582034680344797,0.656573820411613
+female,36-45,own,car,bajo riesgo,250,6,rich / No_tiene,rich,,no cualificado,0-6,1.0,0.0,0.050697028491100485,0.6,0.0,1.6506970284911007,0.3227334092930463
+male,46-55,own,radio/TV,alto riesgo,1316,15,quite rich / No_tiene,quite rich,,no cualificado,13-18,1.0,0.25,0.1522335991272839,0.6,1.0,3.0022335991272837,0.5869769365406626
+female,0-25,rent,radio/TV,alto riesgo,1882,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,1.0,2.9894645708137997,0.584480420238857
+female,56-65,rent,business,medio riesgo,6416,48,little / moderate,little,moderate,cualificado,43-48,0.5,0.75,0.6147386076544852,0.3,0.5,3.664738607654485,0.7165055516561499
+male,36-45,own,business,medio riesgo,1275,24,rich / rich,rich,rich,cualificado,19-24,0.0,0.0,0.26758052058674353,0.3,0.5,1.0675805205867435,0.2087263108595718
+male,26-35,own,radio/TV,alto riesgo,6403,24,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.26758052058674353,0.3,1.0,3.8175805205867435,0.7463881956496323
+male,0-25,rent,radio/TV,alto riesgo,1987,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,1.0,3.3675805205867437,0.6584071599567133
+female,36-45,own,radio/TV,alto riesgo,760,8,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.0715993349974727,0.6,1.0,2.921599334997473,0.5712118563840467
+female,26-35,rent,car,bajo riesgo,2603,24,rich / No_tiene,rich,,cualificado,19-24,1.0,0.0,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+female,36-45,own,car,bajo riesgo,3380,4,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.031165420706838875,0.3,0.0,3.0811654207068386,0.6024091663444359
+female,26-35,own,domestic appliances,medio riesgo,3990,36,No_tiene / moderate,,moderate,desempleado,31-36,0.5,1.0,0.43527528164806206,1.0,0.5,4.435275281648062,0.8671558063613322
+female,0-25,rent,car,bajo riesgo,11560,24,little / moderate,little,moderate,muy cualificado,19-24,0.5,0.75,0.26758052058674353,0.0,0.0,2.5175805205867436,0.4922207592034219
+male,26-35,own,car,bajo riesgo,4380,18,moderate / little,moderate,little,no cualificado,13-18,0.75,0.5,0.18946457081379978,0.6,0.0,3.0394645708138,0.5942560908714036
+male,36-45,own,car,bajo riesgo,6761,6,little / No_tiene,little,,muy cualificado,0-6,1.0,0.75,0.050697028491100485,0.0,0.0,2.8006970284911006,0.5475738338416171
+female,26-35,rent,business,medio riesgo,4280,30,moderate / moderate,moderate,moderate,no cualificado,25-30,0.5,0.5,0.34974096978557817,0.6,0.5,3.4497409697855783,0.6744706297645109
+male,26-35,own,car,bajo riesgo,2325,24,moderate / little,moderate,little,cualificado,19-24,0.75,0.5,0.26758052058674353,0.3,0.0,2.8175805205867435,0.5508747829987012
+male,0-25,own,radio/TV,alto riesgo,1048,10,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.09358387076573756,0.6,1.0,2.9435838707657376,0.5755101279976467
+male,36-45,own,radio/TV,alto riesgo,3160,21,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.22796289202471912,0.3,1.0,4.5279628920247195,0.8852774773765323
+male,0-25,own,furniture/equipment,medio riesgo,2483,24,quite rich / little,quite rich,little,cualificado,19-24,0.75,0.25,0.26758052058674353,0.3,0.5,3.0675805205867435,0.599753136161434
+male,26-35,own,furniture/equipment,medio riesgo,14179,39,No_tiene / little,,little,muy cualificado,37-42,0.75,1.0,0.4791577674336024,0.0,0.5,3.7291577674336023,0.7291003614246707
+male,26-35,own,business,medio riesgo,1797,13,little / little,little,little,no cualificado,13-18,0.75,0.75,0.12821328485306516,0.6,0.5,2.7282132848530654,0.5334022897612295
+female,0-25,rent,car,bajo riesgo,2511,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.0,2.9522335991272834,0.577201265908116
+female,36-45,own,car,bajo riesgo,1274,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+male,26-35,own,car,bajo riesgo,5248,21,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.22796289202471912,0.3,0.0,3.527962892024719,0.6897640647256011
+male,26-35,own,car,bajo riesgo,3029,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,0.0,3.2022335991272834,0.6260796190708487
+female,46-55,own,furniture/equipment,medio riesgo,428,6,little / little,little,little,cualificado,0-6,0.75,0.75,0.050697028491100485,0.3,0.5,2.3506970284911004,0.459592798148698
+female,0-25,own,car,bajo riesgo,976,18,little / little,little,little,no cualificado,13-18,0.75,0.75,0.18946457081379978,0.6,0.0,2.2894645708138,0.4476210313832053
+female,0-25,rent,business,medio riesgo,841,12,moderate / moderate,moderate,moderate,no cualificado,7-12,0.5,0.5,0.11647118646192987,0.6,0.5,2.2164711864619298,0.4333498457076301
+female,0-25,own,radio/TV,alto riesgo,5771,30,little / No_tiene,little,,cualificado,25-30,1.0,0.75,0.34974096978557817,0.3,1.0,4.399740969785578,0.8602083717828953
+male,46-55,free,repairs,medio riesgo,1555,12,rich / No_tiene,rich,,cualificado,7-12,1.0,0.0,0.11647118646192987,0.3,0.5,1.91647118646193,0.3746958219123508
+female,26-35,rent,car,bajo riesgo,1285,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,66+,own,car,bajo riesgo,1299,6,little / rich,little,rich,desempleado,0-6,0.0,0.75,0.050697028491100485,1.0,0.0,1.8006970284911006,0.3520604211906859
+male,36-45,free,radio/TV,alto riesgo,1271,15,No_tiene / rich,,rich,cualificado,13-18,0.0,1.0,0.1522335991272839,0.3,1.0,2.452233599127284,0.4794445595826506
+male,26-35,own,car,bajo riesgo,1393,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,26-35,own,car,bajo riesgo,691,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+female,56-65,own,car,bajo riesgo,5045,15,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.1522335991272839,0.3,0.0,3.4522335991272834,0.6749579722335816
+female,0-25,rent,furniture/equipment,medio riesgo,2124,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,2.4894645708137997,0.4867237139133915
+male,0-25,own,radio/TV,alto riesgo,2214,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,1.0,3.2164711864619298,0.6288632583585612
+male,26-35,free,car,bajo riesgo,12680,21,No_tiene / No_tiene,,,muy cualificado,19-24,1.0,1.0,0.22796289202471912,0.0,0.0,3.227962892024719,0.6311100409303219
+male,26-35,own,car,bajo riesgo,2463,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+male,36-45,own,radio/TV,alto riesgo,1155,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,1.0,2.9664711864619298,0.5799849051958283
+male,26-35,own,furniture/equipment,medio riesgo,3108,30,little / little,little,little,no cualificado,25-30,0.75,0.75,0.34974096978557817,0.6,0.5,3.9497409697855783,0.7722273360899765
+female,26-35,rent,car,bajo riesgo,2901,10,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.09358387076573756,0.3,0.0,3.3935838707657373,0.6634911636905656
+male,26-35,rent,furniture/equipment,medio riesgo,3617,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.5,3.16647118646193,0.6190875877260147
+male,56-65,own,radio/TV,alto riesgo,1655,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,1.0,3.4664711864619298,0.677741611521294
+female,26-35,rent,car,bajo riesgo,2812,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.0,3.3175805205867435,0.6486314893241667
+female,0-25,own,education,bajo riesgo,8065,36,little / little,little,little,muy cualificado,31-36,0.75,0.75,0.43527528164806206,0.0,0.0,2.935275281648062,0.5738856873849355
+male,36-45,own,car,bajo riesgo,3275,21,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.22796289202471912,0.0,0.0,2.977962892024719,0.582231687767589
+male,46-55,own,radio/TV,alto riesgo,2223,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,1.0,3.0675805205867435,0.599753136161434
+male,66+,free,car,bajo riesgo,1480,12,quite rich / rich,quite rich,rich,desempleado,7-12,0.0,0.25,0.11647118646192987,1.0,0.0,1.3664711864619299,0.2671634449543387
+female,0-25,rent,car,bajo riesgo,1371,24,No_tiene / little,,little,cualificado,19-24,0.75,1.0,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,36-45,own,car,bajo riesgo,3535,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.0,3.485275281648062,0.6814180643429476
+female,0-25,own,radio/TV,alto riesgo,3509,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,1.0,3.9894645708137997,0.7799938328897881
+male,36-45,own,car,bajo riesgo,5711,36,rich / No_tiene,rich,,muy cualificado,31-36,1.0,0.0,0.43527528164806206,0.0,0.0,2.435275281648062,0.47612898105947
+female,66+,own,repairs,medio riesgo,3872,18,little / moderate,little,moderate,cualificado,13-18,0.5,0.75,0.18946457081379978,0.3,0.5,3.2394645708137997,0.6333587734015897
+male,0-25,own,radio/TV,alto riesgo,4933,39,little / moderate,little,moderate,cualificado,37-42,0.5,0.75,0.4791577674336024,0.3,1.0,4.0291577674336025,0.7877543852199501
+male,56-65,own,car,bajo riesgo,1940,24,rich / No_tiene,rich,,cualificado,19-24,1.0,0.0,0.26758052058674353,0.3,0.0,1.5675805205867437,0.3064830171850374
+male,26-35,own,education,bajo riesgo,1410,12,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.11647118646192987,0.6,0.0,1.9664711864619298,0.3844714925448973
+female,0-25,own,car,bajo riesgo,836,12,moderate / moderate,moderate,moderate,no cualificado,7-12,0.5,0.5,0.11647118646192987,0.6,0.0,1.7164711864619298,0.33559313938216456
+male,56-65,own,car,bajo riesgo,6468,20,No_tiene / moderate,,moderate,muy cualificado,19-24,0.5,1.0,0.2149992768057157,0.0,0.0,2.714999276805716,0.5308187739530954
+male,26-35,own,business,medio riesgo,1941,18,rich / moderate,rich,moderate,no cualificado,13-18,0.5,0.0,0.18946457081379978,0.6,0.5,1.7894645708137997,0.34986432505773973
+male,36-45,own,radio/TV,alto riesgo,2675,22,quite rich / No_tiene,quite rich,,cualificado,19-24,1.0,0.25,0.24105060246695362,0.3,1.0,3.7910506024669535,0.7412012408206824
+male,36-45,own,car,bajo riesgo,2751,48,No_tiene / No_tiene,,,cualificado,43-48,1.0,1.0,0.6147386076544852,0.3,0.0,3.914738607654485,0.7653839048188826
+male,46-55,free,education,bajo riesgo,6224,48,little / moderate,little,moderate,cualificado,43-48,0.5,0.75,0.6147386076544852,0.3,0.0,3.164738607654485,0.6187488453306843
+male,26-35,own,education,bajo riesgo,5998,40,little / little,little,little,cualificado,37-42,0.75,0.75,0.4939386311845556,0.3,0.0,3.2939386311845555,0.6440091828456291
+female,36-45,own,business,medio riesgo,1188,21,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.22796289202471912,0.3,0.5,2.2779628920247195,0.44537229891193736
+male,36-45,own,car,bajo riesgo,6313,24,No_tiene / No_tiene,,,muy cualificado,19-24,1.0,1.0,0.26758052058674353,0.0,0.0,3.2675805205867436,0.6388558186916202
+male,26-35,own,furniture/equipment,medio riesgo,1221,6,No_tiene / No_tiene,,,cualificado,0-6,1.0,1.0,0.050697028491100485,0.3,0.5,2.8506970284911004,0.5573495044741635
+male,46-55,free,furniture/equipment,medio riesgo,2892,24,little / rich,little,rich,cualificado,19-24,0.0,0.75,0.26758052058674353,0.3,0.5,2.8175805205867435,0.5508747829987012
+male,26-35,rent,furniture/equipment,medio riesgo,3062,24,quite rich / No_tiene,quite rich,,cualificado,19-24,1.0,0.25,0.26758052058674353,0.3,0.5,3.3175805205867435,0.6486314893241667
+female,0-25,rent,furniture/equipment,medio riesgo,2301,9,moderate / No_tiene,moderate,,cualificado,7-12,1.0,0.5,0.0824692444233059,0.3,0.5,2.382469244423306,0.4658046925130858
+male,46-55,free,car,bajo riesgo,7511,18,No_tiene / little,,little,cualificado,13-18,0.75,1.0,0.18946457081379978,0.3,0.0,3.2394645708137997,0.6333587734015897
+female,0-25,rent,furniture/equipment,medio riesgo,1258,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.5,2.9664711864619298,0.5799849051958283
+male,46-55,own,car,bajo riesgo,717,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+male,26-35,own,car,bajo riesgo,1549,9,No_tiene / moderate,,moderate,desempleado,7-12,0.5,1.0,0.0824692444233059,1.0,0.0,2.582469244423306,0.5049073750432721
+male,46-55,free,education,bajo riesgo,1597,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+female,46-55,rent,radio/TV,alto riesgo,1795,18,little / moderate,little,moderate,no cualificado,13-18,0.5,0.75,0.18946457081379978,0.6,1.0,3.0394645708138,0.5942560908714036
+female,0-25,own,furniture/equipment,medio riesgo,4272,20,little / little,little,little,cualificado,19-24,0.75,0.75,0.2149992768057157,0.3,0.5,3.5149992768057157,0.6872295040738402
+male,26-35,own,radio/TV,alto riesgo,976,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,1.0,3.41647118646193,0.6679659408887474
+female,0-25,rent,car,bajo riesgo,7472,12,No_tiene / moderate,,moderate,desempleado,7-12,0.5,1.0,0.11647118646192987,1.0,0.0,3.61647118646193,0.7070686234189336
+male,0-25,own,car,bajo riesgo,9271,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.0,3.235275281648062,0.6325397111802148
+male,26-35,own,radio/TV,alto riesgo,590,6,little / moderate,little,moderate,no cualificado,0-6,0.5,0.75,0.050697028491100485,0.6,1.0,2.9006970284911007,0.5671251751067101
+male,56-65,own,radio/TV,alto riesgo,930,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,1.0,3.41647118646193,0.6679659408887474
+male,46-55,free,car,bajo riesgo,9283,42,little / moderate,little,moderate,muy cualificado,37-42,0.5,0.75,0.5237211981383231,0.0,0.0,2.773721198138323,0.542299697190253
+female,26-35,rent,car,bajo riesgo,1778,15,little / moderate,little,moderate,desempleado,13-18,0.5,0.75,0.1522335991272839,1.0,0.0,2.4022335991272836,0.46966888895010395
+male,26-35,own,business,medio riesgo,907,8,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0715993349974727,0.3,0.5,2.121599334997473,0.4148011262633019
+male,26-35,own,radio/TV,alto riesgo,484,6,little / moderate,little,moderate,no cualificado,0-6,0.5,0.75,0.050697028491100485,0.6,1.0,2.9006970284911007,0.5671251751067101
+male,0-25,own,car,bajo riesgo,9629,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.0,3.235275281648062,0.6325397111802148
+male,46-55,own,domestic appliances,medio riesgo,3051,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.5,3.914738607654485,0.7653839048188826
+male,46-55,free,car,bajo riesgo,3931,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.0,3.414738607654485,0.6676271984934171
+female,46-55,rent,car,bajo riesgo,7432,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,0.0,2.985275281648062,0.583661358017482
+male,56-65,own,domestic appliances,medio riesgo,1338,6,quite rich / No_tiene,quite rich,,cualificado,0-6,1.0,0.25,0.050697028491100485,0.3,0.5,2.1006970284911004,0.41071444498596527
+female,0-25,rent,radio/TV,alto riesgo,1554,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+male,36-45,own,vacation/others,alto riesgo,15857,36,little / little,little,little,muy cualificado,31-36,0.75,0.75,0.43527528164806206,0.0,1.0,3.935275281648062,0.7693991000358665
+male,26-35,own,radio/TV,alto riesgo,1345,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,1.0,2.9894645708137997,0.584480420238857
+male,26-35,own,car,bajo riesgo,1101,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.0,2.16647118646193,0.42357417507508355
+male,0-25,own,radio/TV,alto riesgo,3016,12,little / rich,little,rich,cualificado,7-12,0.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,36-45,own,furniture/equipment,medio riesgo,2712,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+male,46-55,own,car,bajo riesgo,731,8,little / little,little,little,no cualificado,7-12,0.75,0.75,0.0715993349974727,0.6,0.0,2.171599334997473,0.42457679689584843
+male,26-35,own,furniture/equipment,medio riesgo,3780,18,little / No_tiene,little,,muy cualificado,13-18,1.0,0.75,0.18946457081379978,0.0,0.5,3.4394645708138,0.672461455931776
+male,26-35,own,car,bajo riesgo,1602,21,little / little,little,little,cualificado,19-24,0.75,0.75,0.22796289202471912,0.3,0.0,2.027962892024719,0.3964939457492045
+female,26-35,rent,car,bajo riesgo,3966,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.0,2.9894645708137997,0.584480420238857
+male,36-45,own,business,medio riesgo,4165,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,3.7394645708137997,0.7311154797270553
+male,46-55,free,car,bajo riesgo,8335,36,No_tiene / little,,little,cualificado,31-36,0.75,1.0,0.43527528164806206,0.3,0.0,3.485275281648062,0.6814180643429476
+male,36-45,free,business,medio riesgo,6681,48,No_tiene / moderate,,moderate,cualificado,43-48,0.5,1.0,0.6147386076544852,0.3,0.5,3.914738607654485,0.7653839048188826
+male,36-45,own,business,medio riesgo,2375,24,quite rich / No_tiene,quite rich,,cualificado,19-24,1.0,0.25,0.26758052058674353,0.3,0.5,3.3175805205867435,0.6486314893241667
+female,0-25,rent,car,bajo riesgo,1216,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.0,1.9894645708138,0.38896700758792596
+male,26-35,rent,business,medio riesgo,11816,45,little / little,little,little,cualificado,43-48,0.75,0.75,0.5689263134456501,0.3,0.5,3.86892631344565,0.7564269868367449
+female,36-45,own,radio/TV,alto riesgo,5084,24,No_tiene / moderate,,moderate,cualificado,19-24,0.5,1.0,0.26758052058674353,0.3,1.0,4.067580520586743,0.7952665488123649
+female,0-25,own,radio/TV,alto riesgo,2327,15,little / rich,little,rich,no cualificado,13-18,0.0,0.75,0.1522335991272839,0.6,1.0,3.5022335991272837,0.6847336428661281
+male,46-55,own,car,bajo riesgo,1082,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+female,0-25,own,radio/TV,alto riesgo,886,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,1.0,3.41647118646193,0.6679659408887474
+female,0-25,rent,furniture/equipment,medio riesgo,601,4,little / No_tiene,little,,no cualificado,0-6,1.0,0.75,0.031165420706838875,0.6,0.5,2.881165420706839,0.5633064838142496
+male,56-65,own,car,bajo riesgo,2957,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.0,3.0675805205867435,0.599753136161434
+male,46-55,own,radio/TV,alto riesgo,2611,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,1.0,4.317580520586743,0.8441449019750977
+male,26-35,own,furniture/equipment,medio riesgo,5179,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,3.735275281648062,0.7302964175056803
+male,26-35,own,car,bajo riesgo,2993,21,little / No_tiene,little,,no cualificado,19-24,1.0,0.75,0.22796289202471912,0.6,0.0,3.5779628920247193,0.6995397353581477
+female,0-25,own,repairs,medio riesgo,1943,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,2.7394645708137997,0.5356020670761242
+male,46-55,own,business,medio riesgo,1559,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.5,2.8175805205867435,0.5508747829987012
+male,46-55,own,furniture/equipment,medio riesgo,3422,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,3.7394645708137997,0.7311154797270553
+male,26-35,own,furniture/equipment,medio riesgo,3976,21,No_tiene / moderate,,moderate,cualificado,19-24,0.5,1.0,0.22796289202471912,0.3,0.5,3.527962892024719,0.6897640647256011
+male,66+,rent,car,bajo riesgo,6761,18,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.18946457081379978,0.3,0.0,3.4894645708137997,0.6822371265643226
+male,26-35,own,car,bajo riesgo,1249,24,little / No_tiene,little,,cualificado,19-24,1.0,0.75,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+male,56-65,own,radio/TV,alto riesgo,1364,9,little / little,little,little,cualificado,7-12,0.75,0.75,0.0824692444233059,0.3,1.0,2.882469244423306,0.5635613988385514
+male,56-65,own,radio/TV,alto riesgo,709,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,1.0,3.2164711864619298,0.6288632583585612
+male,26-35,rent,car,bajo riesgo,2235,20,little / little,little,little,cualificado,19-24,0.75,0.75,0.2149992768057157,0.3,0.0,2.0149992768057157,0.3939593850974436
+male,36-45,own,car,bajo riesgo,4042,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.0,3.5675805205867435,0.6975098424868995
+male,26-35,free,radio/TV,alto riesgo,1471,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,1.0,3.202233599127284,0.6260796190708489
+male,26-35,free,car,bajo riesgo,1442,18,little / little,little,little,no cualificado,13-18,0.75,0.75,0.18946457081379978,0.6,0.0,2.2894645708138,0.4476210313832053
+male,36-45,own,car,bajo riesgo,10875,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,0.0,3.485275281648062,0.6814180643429476
+male,26-35,own,car,bajo riesgo,1474,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,0.0,2.0675805205867435,0.40423972351050286
+female,36-45,own,education,bajo riesgo,894,10,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.09358387076573756,0.3,0.0,2.3935838707657373,0.4679777510396345
+male,26-35,free,furniture/equipment,medio riesgo,3343,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,0.5,3.7022335991272834,0.7238363253963144
+female,26-35,own,car,bajo riesgo,3959,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.0,2.9522335991272834,0.577201265908116
+male,26-35,rent,car,bajo riesgo,3577,9,moderate / No_tiene,moderate,,cualificado,7-12,1.0,0.5,0.0824692444233059,0.3,0.0,2.882469244423306,0.5635613988385514
+male,26-35,own,car,bajo riesgo,5804,24,rich / No_tiene,rich,,cualificado,19-24,1.0,0.0,0.26758052058674353,0.3,0.0,2.5675805205867435,0.5019964298359684
+male,26-35,own,business,medio riesgo,2169,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,2.7394645708137997,0.5356020670761242
+female,26-35,own,radio/TV,alto riesgo,2439,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,1.0,4.067580520586743,0.7952665488123649
+male,26-35,own,furniture/equipment,medio riesgo,4526,27,rich / No_tiene,rich,,no cualificado,25-30,1.0,0.0,0.30820346803447984,0.6,0.5,3.40820346803448,0.6663494910441596
+male,0-25,rent,furniture/equipment,medio riesgo,2210,10,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.09358387076573756,0.6,0.5,2.9435838707657376,0.5755101279976467
+female,0-25,rent,furniture/equipment,medio riesgo,2221,15,quite rich / No_tiene,quite rich,,cualificado,13-18,1.0,0.25,0.1522335991272839,0.3,0.5,2.202233599127284,0.4305662064199178
+female,26-35,own,radio/TV,alto riesgo,2389,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,1.0,3.9894645708137997,0.7799938328897881
+male,36-45,own,furniture/equipment,medio riesgo,3331,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,0.5,3.66647118646193,0.7168442940514802
+male,36-45,own,business,medio riesgo,7409,36,No_tiene / No_tiene,,,cualificado,31-36,1.0,1.0,0.43527528164806206,0.3,0.5,4.235275281648062,0.8280531238311459
+female,0-25,rent,furniture/equipment,medio riesgo,652,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.5,2.41647118646193,0.4724525282378163
+female,36-45,own,furniture/equipment,medio riesgo,7678,36,quite rich / No_tiene,quite rich,,cualificado,31-36,1.0,0.25,0.43527528164806206,0.3,0.5,3.485275281648062,0.6814180643429476
+male,46-55,own,car,bajo riesgo,1343,6,little / rich,little,rich,cualificado,0-6,0.0,0.75,0.050697028491100485,0.3,0.0,1.1006970284911004,0.21520103233503415
+male,26-35,own,business,medio riesgo,1382,24,moderate / little,moderate,little,cualificado,19-24,0.75,0.5,0.26758052058674353,0.3,0.5,2.317580520586744,0.4531180766732357
+female,0-25,own,domestic appliances,medio riesgo,874,15,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.1522335991272839,0.3,0.5,2.9522335991272834,0.577201265908116
+male,26-35,own,furniture/equipment,medio riesgo,3590,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.5,3.71647118646193,0.7266199646840268
+female,36-45,own,car,bajo riesgo,1322,11,rich / moderate,rich,moderate,cualificado,7-12,0.5,0.0,0.10492336888023829,0.3,0.0,0.9049233688802383,0.17692465603735275
+male,36-45,free,radio/TV,alto riesgo,1940,18,little / little,little,little,muy cualificado,13-18,0.75,0.75,0.18946457081379978,0.0,1.0,2.6894645708138,0.5258263964435778
+male,26-35,own,radio/TV,alto riesgo,3595,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,1.0,4.485275281648062,0.8769314769938786
+male,26-35,free,car,bajo riesgo,1422,9,little / little,little,little,muy cualificado,7-12,0.75,0.75,0.0824692444233059,0.0,0.0,1.582469244423306,0.30939396239234096
+male,36-45,own,radio/TV,alto riesgo,6742,30,No_tiene / No_tiene,,,cualificado,25-30,1.0,1.0,0.34974096978557817,0.3,1.0,4.649740969785578,0.9090867249456281
+male,36-45,own,car,bajo riesgo,7814,24,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.26758052058674353,0.0,0.0,3.0175805205867436,0.5899774655288874
+male,46-55,free,car,bajo riesgo,9277,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.0,3.5675805205867435,0.6975098424868995
+male,36-45,own,car,bajo riesgo,2181,30,No_tiene / moderate,,moderate,cualificado,25-30,0.5,1.0,0.34974096978557817,0.3,0.0,2.149740969785578,0.42030319331830046
+female,56-65,own,radio/TV,alto riesgo,1098,18,little / No_tiene,little,,desempleado,13-18,1.0,0.75,0.18946457081379978,1.0,1.0,3.9394645708138,0.7702181622572416
+male,36-45,own,furniture/equipment,medio riesgo,4057,24,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.26758052058674353,0.3,0.5,3.3175805205867435,0.6486314893241667
+female,46-55,own,education,bajo riesgo,795,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+male,26-35,own,business,medio riesgo,2825,24,No_tiene / moderate,,moderate,cualificado,19-24,0.5,1.0,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,0-25,own,business,medio riesgo,15672,48,little / moderate,little,moderate,cualificado,43-48,0.5,0.75,0.6147386076544852,0.3,0.5,3.664738607654485,0.7165055516561499
+male,26-35,own,car,bajo riesgo,6614,36,little / No_tiene,little,,muy cualificado,31-36,1.0,0.75,0.43527528164806206,0.0,0.0,3.185275281648062,0.6227640405476683
+male,36-45,rent,car,bajo riesgo,7824,28,No_tiene / No_tiene,,,cualificado,25-30,1.0,1.0,0.3219516401426915,0.3,0.0,3.6219516401426914,0.7081401256209346
+male,36-45,own,business,medio riesgo,2442,27,little / little,little,little,muy cualificado,25-30,0.75,0.75,0.30820346803447984,0.0,0.5,3.30820346803448,0.6467981497790666
+male,46-55,own,radio/TV,alto riesgo,1829,15,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.1522335991272839,0.3,1.0,3.202233599127284,0.6260796190708489
+male,36-45,own,car,bajo riesgo,2171,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+male,26-35,own,car,bajo riesgo,5800,36,little / moderate,little,moderate,cualificado,31-36,0.5,0.75,0.43527528164806206,0.3,0.0,2.985275281648062,0.583661358017482
+male,26-35,own,radio/TV,alto riesgo,1169,18,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.18946457081379978,0.3,1.0,3.4894645708137997,0.6822371265643226
+male,26-35,own,car,bajo riesgo,8947,36,No_tiene / No_tiene,,,muy cualificado,31-36,1.0,1.0,0.43527528164806206,0.0,0.0,3.435275281648062,0.671642393710401
+female,26-35,rent,radio/TV,alto riesgo,2606,21,little / little,little,little,muy cualificado,19-24,0.75,0.75,0.22796289202471912,0.0,1.0,3.727962892024719,0.7288667472557874
+female,26-35,own,furniture/equipment,medio riesgo,1592,12,rich / No_tiene,rich,,cualificado,7-12,1.0,0.0,0.11647118646192987,0.3,0.5,1.91647118646193,0.3746958219123508
+female,26-35,rent,furniture/equipment,medio riesgo,2186,15,No_tiene / No_tiene,,,no cualificado,13-18,1.0,1.0,0.1522335991272839,0.6,0.5,3.2522335991272837,0.6358552897033954
+male,36-45,own,furniture/equipment,medio riesgo,4153,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,3.4894645708137997,0.6822371265643226
+male,36-45,rent,car,bajo riesgo,2625,16,little / little,little,little,cualificado,13-18,0.75,0.75,0.16449207666095705,0.3,0.0,2.9644920766609566,0.5795979626846293
+male,36-45,own,car,bajo riesgo,3485,20,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.2149992768057157,0.3,0.0,3.5149992768057157,0.6872295040738402
+male,36-45,free,car,bajo riesgo,10477,36,No_tiene / No_tiene,,,cualificado,31-36,1.0,1.0,0.43527528164806206,0.3,0.0,3.735275281648062,0.7302964175056803
+male,36-45,rent,radio/TV,alto riesgo,1386,15,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.1522335991272839,0.3,1.0,3.4522335991272834,0.6749579722335816
+male,36-45,own,radio/TV,alto riesgo,1278,24,little / No_tiene,little,,muy cualificado,19-24,1.0,0.75,0.26758052058674353,0.0,1.0,3.0175805205867436,0.5899774655288874
+male,0-25,rent,radio/TV,alto riesgo,1107,12,little / little,little,little,muy cualificado,7-12,0.75,0.75,0.11647118646192987,0.0,1.0,2.61647118646193,0.5115552107680026
+male,0-25,own,car,bajo riesgo,3763,21,No_tiene / little,,little,no cualificado,19-24,0.75,1.0,0.22796289202471912,0.6,0.0,3.5779628920247193,0.6995397353581477
+male,26-35,own,education,bajo riesgo,3711,36,No_tiene / moderate,,moderate,cualificado,31-36,0.5,1.0,0.43527528164806206,0.3,0.0,3.235275281648062,0.6325397111802148
+female,46-55,own,car,bajo riesgo,3594,15,little / No_tiene,little,,no cualificado,13-18,1.0,0.75,0.1522335991272839,0.6,0.0,3.5022335991272837,0.6847336428661281
+female,26-35,own,car,bajo riesgo,3195,9,No_tiene / moderate,,moderate,no cualificado,7-12,0.5,1.0,0.0824692444233059,0.6,0.0,3.1824692444233063,0.6222154226338307
+female,26-35,own,radio/TV,alto riesgo,4454,36,little / No_tiene,little,,cualificado,31-36,1.0,0.75,0.43527528164806206,0.3,1.0,4.485275281648062,0.8769314769938786
+female,0-25,own,furniture/equipment,medio riesgo,4736,24,little / moderate,little,moderate,no cualificado,19-24,0.5,0.75,0.26758052058674353,0.6,0.5,3.6175805205867437,0.7072855131194461
+female,0-25,own,radio/TV,alto riesgo,2991,30,No_tiene / moderate,,moderate,cualificado,25-30,0.5,1.0,0.34974096978557817,0.3,1.0,4.149740969785578,0.8113300186201625
+male,26-35,own,business,medio riesgo,2142,11,rich / No_tiene,rich,,cualificado,7-12,1.0,0.0,0.10492336888023829,0.3,0.5,1.9049233688802383,0.37243806868828383
+male,26-35,rent,business,medio riesgo,3161,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+female,26-35,own,vacation/others,alto riesgo,18424,48,little / moderate,little,moderate,muy cualificado,43-48,0.5,0.75,0.6147386076544852,0.0,1.0,3.864738607654485,0.7556082341863362
+male,26-35,own,car,bajo riesgo,2848,10,moderate / No_tiene,moderate,,cualificado,7-12,1.0,0.5,0.09358387076573756,0.3,0.0,2.8935838707657373,0.5657344573651001
+male,66+,own,car,bajo riesgo,14896,6,little / little,little,little,muy cualificado,0-6,0.75,0.75,0.050697028491100485,0.0,0.0,2.5506970284911006,0.49869548067888425
+male,26-35,own,furniture/equipment,medio riesgo,2359,24,moderate / little,moderate,little,cualificado,19-24,0.75,0.5,0.26758052058674353,0.3,0.5,3.3175805205867435,0.6486314893241667
+male,36-45,rent,furniture/equipment,medio riesgo,3345,24,little / little,little,little,muy cualificado,19-24,0.75,0.75,0.26758052058674353,0.0,0.5,3.2675805205867436,0.6388558186916202
+female,26-35,own,furniture/equipment,medio riesgo,1817,18,little / No_tiene,little,,cualificado,13-18,1.0,0.75,0.18946457081379978,0.3,0.5,2.7394645708137997,0.5356020670761242
+male,36-45,own,radio/TV,alto riesgo,12749,48,quite rich / No_tiene,quite rich,,muy cualificado,43-48,1.0,0.25,0.6147386076544852,0.0,1.0,3.864738607654485,0.7556082341863362
+female,0-25,rent,radio/TV,alto riesgo,1366,9,little / little,little,little,cualificado,7-12,0.75,0.75,0.0824692444233059,0.3,1.0,2.882469244423306,0.5635613988385514
+male,26-35,rent,car,bajo riesgo,2002,12,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.11647118646192987,0.3,0.0,1.66647118646193,0.32581746874961803
+male,46-55,own,furniture/equipment,medio riesgo,6872,24,little / little,little,little,cualificado,19-24,0.75,0.75,0.26758052058674353,0.3,0.5,3.5675805205867435,0.6975098424868995
+male,46-55,own,car,bajo riesgo,697,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+female,0-25,rent,furniture/equipment,medio riesgo,1049,18,little / little,little,little,cualificado,13-18,0.75,0.75,0.18946457081379978,0.3,0.5,2.4894645708137997,0.4867237139133915
+male,36-45,free,car,bajo riesgo,10297,48,little / little,little,little,cualificado,43-48,0.75,0.75,0.6147386076544852,0.3,0.0,3.414738607654485,0.6676271984934171
+male,56-65,own,radio/TV,alto riesgo,1867,30,No_tiene / No_tiene,,,cualificado,25-30,1.0,1.0,0.34974096978557817,0.3,1.0,3.649740969785578,0.7135733122946971
+male,36-45,own,car,bajo riesgo,1344,12,little / little,little,little,no cualificado,7-12,0.75,0.75,0.11647118646192987,0.6,0.0,2.2164711864619298,0.4333498457076301
+male,0-25,own,furniture/equipment,medio riesgo,1747,24,little / little,little,little,no cualificado,19-24,0.75,0.75,0.26758052058674353,0.6,0.5,2.8675805205867437,0.5606504536312478
+female,0-25,own,radio/TV,alto riesgo,1670,9,little / moderate,little,moderate,cualificado,7-12,0.5,0.75,0.0824692444233059,0.3,1.0,2.632469244423306,0.5146830456758186
+male,26-35,own,car,bajo riesgo,1224,9,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.0824692444233059,0.3,0.0,2.132469244423306,0.41692633935035306
+male,36-45,own,radio/TV,alto riesgo,522,12,quite rich / No_tiene,quite rich,,cualificado,7-12,1.0,0.25,0.11647118646192987,0.3,1.0,2.66647118646193,0.5213308814005491
+female,0-25,own,radio/TV,alto riesgo,1498,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,1.0,2.91647118646193,0.5702092345632819
+male,26-35,own,radio/TV,alto riesgo,1919,30,moderate / moderate,moderate,moderate,muy cualificado,25-30,0.5,0.5,0.34974096978557817,0.0,1.0,2.3497409697855782,0.45940587584848674
+female,26-35,own,radio/TV,alto riesgo,745,9,little / rich,little,rich,no cualificado,7-12,0.0,0.75,0.0824692444233059,0.6,1.0,2.432469244423306,0.47558036314563235
+male,26-35,rent,radio/TV,alto riesgo,2063,6,little / moderate,little,moderate,muy cualificado,0-6,0.5,0.75,0.050697028491100485,0.0,1.0,2.3006970284911006,0.4498171275161515
+male,36-45,free,education,bajo riesgo,6288,60,little / moderate,little,moderate,cualificado,55-60,0.5,0.75,0.8034937533355228,0.3,0.0,3.3534937533355227,0.6556530080182077
+male,46-55,own,car,bajo riesgo,6842,24,No_tiene / No_tiene,,,muy cualificado,19-24,1.0,1.0,0.26758052058674353,0.0,0.0,3.2675805205867436,0.6388558186916202
+male,36-45,own,car,bajo riesgo,3527,12,No_tiene / No_tiene,,,muy cualificado,7-12,1.0,1.0,0.11647118646192987,0.0,0.0,3.11647118646193,0.6093119170934681
+male,26-35,own,car,bajo riesgo,1546,10,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.09358387076573756,0.6,0.0,2.4435838707657376,0.4777534216721811
+male,26-35,own,furniture/equipment,medio riesgo,929,24,No_tiene / No_tiene,,,cualificado,19-24,1.0,1.0,0.26758052058674353,0.3,0.5,3.0675805205867435,0.599753136161434
+male,36-45,own,car,bajo riesgo,1455,4,little / No_tiene,little,,no cualificado,0-6,1.0,0.75,0.031165420706838875,0.6,0.0,2.381165420706839,0.4655497774887841
+female,46-55,rent,furniture/equipment,medio riesgo,1845,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.5,2.452233599127284,0.4794445595826506
+female,26-35,own,car,bajo riesgo,8358,48,quite rich / moderate,quite rich,moderate,cualificado,43-48,0.5,0.25,0.6147386076544852,0.3,0.0,2.664738607654485,0.5209921390052188
+male,26-35,free,furniture/equipment,medio riesgo,3349,24,quite rich / little,quite rich,little,cualificado,19-24,0.75,0.25,0.26758052058674353,0.3,0.5,3.0675805205867435,0.599753136161434
+male,36-45,own,car,bajo riesgo,2859,12,No_tiene / No_tiene,,,muy cualificado,7-12,1.0,1.0,0.11647118646192987,0.0,0.0,3.11647118646193,0.6093119170934681
+male,36-45,own,furniture/equipment,medio riesgo,1533,18,little / No_tiene,little,,no cualificado,13-18,1.0,0.75,0.18946457081379978,0.6,0.5,3.0394645708138,0.5942560908714036
+male,26-35,own,radio/TV,alto riesgo,3621,24,moderate / No_tiene,moderate,,cualificado,19-24,1.0,0.5,0.26758052058674353,0.3,1.0,4.067580520586743,0.7952665488123649
+male,36-45,own,business,medio riesgo,3590,18,little / moderate,little,moderate,desempleado,13-18,0.5,0.75,0.18946457081379978,1.0,0.5,3.9394645708138,0.7702181622572416
+male,0-25,own,business,medio riesgo,2145,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.5,2.735275281648062,0.5347830048547493
+female,26-35,rent,car,bajo riesgo,4113,24,quite rich / moderate,quite rich,moderate,cualificado,19-24,0.5,0.25,0.26758052058674353,0.3,0.0,2.3175805205867435,0.45311807667323567
+female,26-35,own,furniture/equipment,medio riesgo,10974,36,little / No_tiene,little,,muy cualificado,31-36,1.0,0.75,0.43527528164806206,0.0,0.5,3.685275281648062,0.7205207468731338
+female,26-35,own,car,bajo riesgo,1893,12,little / little,little,little,cualificado,7-12,0.75,0.75,0.11647118646192987,0.3,0.0,1.91647118646193,0.3746958219123508
+female,56-65,rent,radio/TV,alto riesgo,1231,24,rich / little,rich,little,muy cualificado,19-24,0.75,0.0,0.26758052058674353,0.0,1.0,2.0175805205867436,0.3944640528779564
+male,46-55,own,radio/TV,alto riesgo,3656,30,No_tiene / rich,,rich,no cualificado,25-30,0.0,1.0,0.34974096978557817,0.6,1.0,3.9497409697855783,0.7722273360899765
+male,36-45,own,radio/TV,alto riesgo,1154,9,little / moderate,little,moderate,no cualificado,7-12,0.5,0.75,0.0824692444233059,0.6,1.0,2.932469244423306,0.5733370694710979
+male,36-45,own,car,bajo riesgo,4006,28,little / little,little,little,no cualificado,25-30,0.75,0.75,0.3219516401426915,0.6,0.0,3.4219516401426917,0.6690374430907485
+male,26-35,free,furniture/equipment,medio riesgo,3069,24,moderate / moderate,moderate,moderate,cualificado,19-24,0.5,0.5,0.26758052058674353,0.3,0.5,3.0675805205867435,0.599753136161434
+male,26-35,rent,radio/TV,alto riesgo,1740,6,little / No_tiene,little,,cualificado,0-6,1.0,0.75,0.050697028491100485,0.3,1.0,3.1006970284911004,0.6062278576368964
+male,46-55,own,car,bajo riesgo,2353,21,little / moderate,little,moderate,cualificado,19-24,0.5,0.75,0.22796289202471912,0.3,0.0,2.777962892024719,0.5431290052374028
+male,26-35,own,car,bajo riesgo,3556,15,No_tiene / No_tiene,,,cualificado,13-18,1.0,1.0,0.1522335991272839,0.3,0.0,3.4522335991272834,0.6749579722335816
+male,26-35,own,radio/TV,alto riesgo,2397,24,quite rich / No_tiene,quite rich,,cualificado,19-24,1.0,0.25,0.26758052058674353,0.3,1.0,3.8175805205867435,0.7463881956496323
+male,0-25,own,repairs,medio riesgo,454,6,little / moderate,little,moderate,no cualificado,0-6,0.5,0.75,0.050697028491100485,0.6,0.5,2.4006970284911007,0.4693684687812446
+female,26-35,own,radio/TV,alto riesgo,1715,30,No_tiene / moderate,,moderate,cualificado,25-30,0.5,1.0,0.34974096978557817,0.3,1.0,3.149740969785578,0.6158166059692316
+male,0-25,own,radio/TV,alto riesgo,2520,27,quite rich / moderate,quite rich,moderate,no cualificado,25-30,0.5,0.25,0.30820346803447984,0.6,1.0,3.65820346803448,0.7152278442068924
+female,46-55,rent,radio/TV,alto riesgo,3568,15,little / No_tiene,little,,muy cualificado,13-18,1.0,0.75,0.1522335991272839,0.0,1.0,3.9022335991272836,0.7629390079265006
+male,26-35,rent,radio/TV,alto riesgo,7166,42,No_tiene / No_tiene,,,cualificado,37-42,1.0,1.0,0.5237211981383231,0.3,1.0,4.823721198138323,0.9431021931246616
+male,36-45,own,car,bajo riesgo,3939,11,little / little,little,little,no cualificado,7-12,0.75,0.75,0.10492336888023829,0.6,0.0,3.2049233688802383,0.6266055051344942
+male,0-25,own,repairs,medio riesgo,1514,15,moderate / moderate,moderate,moderate,cualificado,13-18,0.5,0.5,0.1522335991272839,0.3,0.5,1.952233599127284,0.381687853257185
+male,36-45,own,car,bajo riesgo,7393,24,little / No_tiene,little,,no cualificado,19-24,1.0,0.75,0.26758052058674353,0.6,0.0,3.6175805205867437,0.7072855131194461
+female,26-35,rent,car,bajo riesgo,1193,24,little / little,little,little,desempleado,19-24,0.75,0.75,0.26758052058674353,1.0,0.0,2.7675805205867436,0.5410991123661547
+male,36-45,rent,business,medio riesgo,7297,60,little / little,little,little,cualificado,55-60,0.75,0.75,0.8034937533355228,0.3,0.5,4.103493753335522,0.8022880675064059
+female,26-35,own,radio/TV,alto riesgo,2831,30,little / No_tiene,little,,cualificado,25-30,1.0,0.75,0.34974096978557817,0.3,1.0,4.399740969785578,0.8602083717828953
+female,56-65,own,radio/TV,alto riesgo,1258,24,quite rich / rich,quite rich,rich,no cualificado,19-24,0.0,0.25,0.26758052058674353,0.6,1.0,2.1175805205867437,0.4140153941430495
+female,56-65,own,radio/TV,alto riesgo,753,6,little / moderate,little,moderate,cualificado,0-6,0.5,0.75,0.050697028491100485,0.3,1.0,2.6006970284911004,0.5084711513114307
+male,36-45,own,business,medio riesgo,2427,18,No_tiene / moderate,,moderate,cualificado,13-18,0.5,1.0,0.18946457081379978,0.3,0.5,3.4894645708137997,0.6822371265643226
+male,46-55,own,car,bajo riesgo,2538,24,little / No_tiene,little,,no cualificado,19-24,1.0,0.75,0.26758052058674353,0.6,0.0,3.6175805205867437,0.7072855131194461
+male,0-25,rent,car,bajo riesgo,1264,15,moderate / moderate,moderate,moderate,cualificado,13-18,0.5,0.5,0.1522335991272839,0.3,0.0,1.452233599127284,0.2839311469317195
+male,46-55,own,furniture/equipment,medio riesgo,8386,30,little / moderate,little,moderate,cualificado,25-30,0.5,0.75,0.34974096978557817,0.3,0.5,3.399740969785578,0.6646949591319643
+male,26-35,rent,business,medio riesgo,4844,48,little / No_tiene,little,,muy cualificado,43-48,1.0,0.75,0.6147386076544852,0.0,0.5,3.864738607654485,0.7556082341863362
+female,26-35,own,car,bajo riesgo,2923,21,moderate / rich,moderate,rich,muy cualificado,19-24,0.0,0.5,0.22796289202471912,0.0,0.0,1.7279628920247192,0.3378399219539252
+male,26-35,own,car,bajo riesgo,8229,36,little / little,little,little,cualificado,31-36,0.75,0.75,0.43527528164806206,0.3,0.0,3.235275281648062,0.6325397111802148
+male,26-35,own,furniture/equipment,medio riesgo,2028,24,little / No_tiene,little,,no cualificado,19-24,1.0,0.75,0.26758052058674353,0.6,0.5,3.1175805205867437,0.6095288067939806
+female,0-25,rent,furniture/equipment,medio riesgo,1433,15,little / little,little,little,cualificado,13-18,0.75,0.75,0.1522335991272839,0.3,0.5,2.452233599127284,0.4794445595826506
+male,26-35,own,business,medio riesgo,6289,42,little / rich,little,rich,cualificado,37-42,0.0,0.75,0.5237211981383231,0.3,0.5,3.073721198138323,0.6009537209855322
+female,56-65,own,radio/TV,alto riesgo,1409,13,moderate / No_tiene,moderate,,cualificado,13-18,1.0,0.5,0.12821328485306516,0.3,1.0,2.928213284853065,0.5725049722914157
+male,26-35,free,car,bajo riesgo,6579,24,little / little,little,little,muy cualificado,19-24,0.75,0.75,0.26758052058674353,0.0,0.0,2.7675805205867436,0.5410991123661547
+male,46-55,own,radio/TV,alto riesgo,1743,24,little / moderate,little,moderate,no cualificado,19-24,0.5,0.75,0.26758052058674353,0.6,1.0,3.1175805205867437,0.6095288067939806
+male,36-45,own,education,bajo riesgo,3565,12,No_tiene / No_tiene,,,no cualificado,7-12,1.0,1.0,0.11647118646192987,0.6,0.0,3.71647118646193,0.7266199646840268
+male,26-35,own,radio/TV,alto riesgo,1569,15,moderate / No_tiene,moderate,,no cualificado,13-18,1.0,0.5,0.1522335991272839,0.6,1.0,3.2522335991272837,0.6358552897033954
+male,0-25,rent,radio/TV,alto riesgo,1936,18,No_tiene / little,,little,no cualificado,13-18,0.75,1.0,0.18946457081379978,0.6,1.0,3.5394645708138,0.6920127971968691
+male,26-35,own,furniture/equipment,medio riesgo,3959,36,little / little,little,little,muy cualificado,31-36,0.75,0.75,0.43527528164806206,0.0,0.5,3.435275281648062,0.671642393710401
+male,46-55,own,car,bajo riesgo,2390,12,No_tiene / No_tiene,,,cualificado,7-12,1.0,1.0,0.11647118646192987,0.3,0.0,3.41647118646193,0.6679659408887474
+female,26-35,own,furniture/equipment,medio riesgo,1736,12,little / No_tiene,little,,no cualificado,7-12,1.0,0.75,0.11647118646192987,0.6,0.5,2.9664711864619298,0.5799849051958283
+male,36-45,own,car,bajo riesgo,3857,30,little / little,little,little,muy cualificado,25-30,0.75,0.75,0.34974096978557817,0.0,0.0,2.8497409697855782,0.5571625821739523
+male,36-45,own,radio/TV,alto riesgo,804,12,little / No_tiene,little,,cualificado,7-12,1.0,0.75,0.11647118646192987,0.3,1.0,3.16647118646193,0.6190875877260147
+male,0-25,free,radio/TV,alto riesgo,1845,45,little / little,little,little,cualificado,43-48,0.75,0.75,0.5689263134456501,0.3,1.0,3.36892631344565,0.6586702805112793
+male,26-35,own,car,bajo riesgo,4576,45,moderate / moderate,moderate,moderate,cualificado,43-48,0.5,0.5,0.5689263134456501,0.3,0.0,2.86892631344565,0.5609135741858138
